@@ -126,11 +126,12 @@ Take a screenshot if you like the result!
 
 ---
 
-## What to Submit (End of Class)
-In the myCourses dropbox "AI Brainstorming Exercise":
+## What to Submit before dropbox closes
+In a docx file, that goes in the myCourses dropbox "AI Brainstorming Exercise with Gemini - Doomscrolling":
 1. Copy/paste your final app/product description
-2. Paste the link to your Gemini chat (click "Share" in Gemini)
-3. Answer: Which AI response surprised you most and why? (2-3 sentences)
+2. Paste in at least 1 image that was generated for the product
+3. Paste the link to your Gemini chat (click "Share" in Gemini)
+4. Answer: Which AI response surprised you most and why? (2-3 sentences)
 
 ---
 
