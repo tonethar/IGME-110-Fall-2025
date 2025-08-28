@@ -1,4 +1,4 @@
-# AI Brainstorming Exercise - Doomscrolling
+# AI Brainstorming Exercise with Gemini - Doomscrolling
 
 ## Objective
 - Learn how to use AI as a creative thinking partner to develop app/product ideas
