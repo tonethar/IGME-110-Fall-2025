@@ -1,4 +1,4 @@
-# AI Brainstorming Exercise
+# AI Brainstorming Exercise - Doomscrolling
 
 ## Objective
 - Learn how to use AI as a creative thinking partner to develop app/product ideas
@@ -9,7 +9,7 @@
 ## Setup (5 minutes)
 1. **Open your browser and go to:** [gemini.google.com](https://gemini.google.com/)
 2. **Sign in with your RIT Google account** (important for free features!)
-3. **Look for "Guided Learning" mode** (may be a toggle or option in settings)
+3. **Look for "Guided Learning" mode** (look under "tools", may be a toggle or option in settings)
 4. **Have our Slack open in another tab** - you'll share at the end
 
 ---
@@ -19,8 +19,8 @@
 ### Step 1: Enable Guided Learning and start the conversation
 Copy and paste this prompt:
 ```
-I want to design a solution for college students struggling with 8am classes. 
-Help me understand this problem better by asking me questions about my experience with early morning classes.
+I want to design a solution for college students struggling with excessive Doomscrolling on their personal devices. 
+Help me understand this problem better by asking me questions about how doomscrolling effects a typical college student.
 ```
 
 ### Step 2: Engage with Gemini's questions
