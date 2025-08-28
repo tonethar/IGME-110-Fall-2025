@@ -100,7 +100,7 @@ Take a screenshot if you like the result!
 
 ### Step 8: Post to Slack
 1. Go to our class Slack → #section-[your section number] channel
-2. Find my message: "Share your 8am solution here!"
+2. Find my message: "Share your Doomscrolling solution here!"
 3. **Click in the thread** (hover over message → "Reply in thread")
 4. Post:
    - **App/Product Name:** [Your creative name]
