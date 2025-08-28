@@ -24,7 +24,7 @@ Help me understand this problem better by asking me questions about how doomscro
 ```
 
 ### Step 2: Engage with Gemini's questions
-- Answer honestly about YOUR experience
+- Answer honestly about YOUR experience (or a Doomscroller you personally know)
 - Let it ask you 3-4 follow-up questions
 - Notice how it's helping you think deeper about the problem
 - **Save interesting insights it helps you discover**
