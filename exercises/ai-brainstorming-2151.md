@@ -122,7 +122,6 @@ Take a screenshot if you like the result!
 
 ✅ **Have fun with it** - the sillier ideas often lead to the best insights
 
-✅ **Save your chat** - You'll submit this for participation credit
 
 ---
 
