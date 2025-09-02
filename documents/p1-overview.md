@@ -3,6 +3,7 @@
 ## I. Overview
 - For project 1 you will work in a small group and create a written proposal for an “app”
 - For the purposes of the assignment, this app could be a phone or desktop app, a web site or even a physical product
+- An SFW ("safe for work") topic that everyone can agree on is best - let your prof know if you are having trouble coming up with an idea
 
 ###  Some examples from last year
 - *Bike Spikes* - a physical traction control solution for bicycles on winter roads
