@@ -65,13 +65,13 @@
 ### Team 3
 - Trevin Fruehauf
 - Noah Holzheimer
-- Cole Joly
 - Andie Kiener
+- Quinn McCormick
 
 ### Team 4
+- Cole Joly
 - Jack Lindsey-noble	
 - Maddy Lohr
-- Quinn McCormick
 - Mikey Mirmigos
 
 ### Team 5
