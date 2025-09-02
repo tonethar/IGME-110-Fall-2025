@@ -65,45 +65,45 @@
 ## IV. Section 09 (TR 3:30PM-4:45PM)
 
 ### Team 1
-- Luna Berl,mrb7646
-- Alessia Bianchimano,arb6547
-- Nick Bisordi,njb8082
-- Noah Bonafede,njb6863
+- Luna Berl
+- Alessia Bianchimano
+- Nick Bisordi
+- Noah Bonafede
 
 ### Team 2
-- Fiona Chan,fyc6890
-- Mitzi Chen,mc3826
-- Anthony Cianfrini,adc2252
-- Amanda Duffy,ad5883
+- Fiona Chan
+- Mitzi Chen
+- Anthony Cianfrini
+- Amanda Duffy
 
 ### Team 3
-- Ethan Eddy,eae1671
-- Sebastian Greco,svg1108
-- Laura Gutaman,leg5975
-- Owen Katz,oak6889
+- Ethan Eddy
+- Sebastian Greco
+- Laura Gutaman
+- Owen Katz
 
 ### Team 4
-- Lux Kopp,kak8808
-- Firdavs Muqimtoshov,fm6253
-- Greg Murray,gtm9062
-- Jeremy Nivar,jen2171
+- Lux Kopp
+- Firdavs Muqimtoshov
+- Greg Murray
+- Jeremy Nivar
 
 ### Team 5
-- Emmanuel Olivares,eo9771
-- Zach Palumbo,zdp3501
-- Hudson Reeves,hwr2942
-- Trevor Ringhisen,tar3760
+- Emmanuel Olivares
+- Zach Palumbo
+- Hudson Reeves
+- Trevor Ringhisen
 
 ### Team 6
-- Di'Anny Santana,dss2384
-- Adam Shaw,aws5240
-- Emmett Sier,cas1899
-- Adon Smith-Griffin,aas5365
-- Takeshi Tatsumi,tt6544
+- Di'Anny Santana
+- Adam Shaw
+- Emmett Sier
+- Adon Smith-Griffin
+- Takeshi Tatsumi
 
 ### Team 7
-- Brian Teruya,bnt7728
-- Sam Thompson-Wise,sct7302
-- Henry Watson,hbw1969
-- Jordan Weller,jw8795
-- Maryn Yurack,ejy7761
+- Brian Teruya
+- Sam Thompson-Wise
+- Henry Watson
+- Jordan Weller
+- Maryn Yurack
