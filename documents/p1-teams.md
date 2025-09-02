@@ -14,6 +14,38 @@
 
 ## I. Section 04 (MW 5:00PM-6:15PM)
 
+### Team 1
+- Alava, Jonathan
+- Samuel Cox
+- Kyle Cress
+- Charlie Davis
+
+### Team 2
+- Draco Del Toro
+- Bonnie Denise
+- Zoe DeVore
+- Ethan Elston
+
+### Team 3
+- Zach Fedorwich
+- Dante Ferreira
+- Jack Glastetter
+- Jason Herriott
+
+### Team 4
+- Diana Kariaka
+- Aidan Lees
+- Palmer Martin
+- Hunter Mowrey
+- Cody Oleksak
+
+### Team 5
+- Elijah Saylor
+- Avery Schrader
+- Theo Scudo
+- Cora Tyner
+- Adrian Washington
+
 ---
 
 ## II. Section 05 (MW 6:30PM -7:45PM)
