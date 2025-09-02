@@ -50,6 +50,43 @@
 
 ## II. Section 05 (MW 6:30PM -7:45PM)
 
+### Team 1
+- Charisma Allen
+- Logan Babb
+- Luther Barreiro-Roxo
+- Tanai Beeram
+
+### Team 2
+- Noah Brutcher
+- Luan Dunlap
+- Luke Edelmann
+- Jamison Eng
+
+### Team 3
+- Trevin Fruehauf
+- Noah Holzheimer
+- Cole Joly
+- Andie Kiener
+
+### Team 4
+- Jack Lindsey-noble	
+- Maddy Lohr
+- Quinn McCormick
+- Mikey Mirmigos
+
+### Team 5
+- Ian Oppermann 
+- Connor Peck
+- Lyric Preston
+- Junghun Shin
+
+### Team 5
+- Aaron Smiljanic
+- Lane Velasco
+- Andrew Viera
+- Zarif Wahid
+- Koen Westburg
+
 ---
 
 ## III. Section 06 (TR 5:00PM-6:15PM)
