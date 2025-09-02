@@ -23,42 +23,42 @@
 ## III. Section 06 (TR 5:00PM-6:15PM)
 
 ### Team 1
-Tommy Barone
-Braeden Buckley
-Ethan Carpenter
-Ricardo Charles
+- Tommy Barone
+- Braeden Buckley
+- Ethan Carpenter
+- Ricardo Charles
 
 ### Team 2
-Clyde Collins
-Kaitlyn Gray
-Quinn Halaby
-Isaac Knowlton
+- Clyde Collins
+- Kaitlyn Gray
+- Quinn Halaby
+- Isaac Knowlton
 
 ### Team 3
-Kaiden Lakheeram
-Kevin Lao	
-Zoey Lapidus
-Lush Lu
+- Kaiden Lakheeram
+- Kevin Lao	
+- Zoey Lapidus
+- Lush Lu
 
 ### Team 4
-Meadow McKeegan
-Cam Murphy
-Joaquin Parada
-David Poore
+- Meadow McKeegan
+- Cam Murphy
+- Joaquin Parada
+- David Poore
 
 ### Team 5
-Autumn Seidlitz
-Alex Sharpe
-Philip Thomas
-Joel Wallingford
-Abby Wiley
+- Autumn Seidlitz
+- Alex Sharpe
+- Philip Thomas
+- Joel Wallingford
+- Abby Wiley
 
 ### Team 6
-Nicora Wiseley
-Onyx Wong
-William Yi
-Laurin Zanon
-Anushree Zimmerman
+- Nicora Wiseley
+- Onyx Wong
+- William Yi
+- Laurin Zanon
+- Anushree Zimmerman
 
 ---
 
