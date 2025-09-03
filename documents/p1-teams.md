@@ -80,7 +80,7 @@
 - Lyric Preston
 - Junghun Shin
 
-### Team 5
+### Team 6
 - Aaron Smiljanic
 - Lane Velasco
 - Andrew Viera
