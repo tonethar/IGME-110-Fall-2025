@@ -151,7 +151,7 @@
 - Laura Gutaman
 - Owen Katz
 
-### Team 4 - *CorvidCasual - Social Fashion App for people looking for style!*
+### Team 4 - *CorvidCasual - a fashion social media platform with a simulation aspect to help the user find their style!*
 - Lux Kopp
 - Firdavs Muqimtoshov
 - Greg Murray
