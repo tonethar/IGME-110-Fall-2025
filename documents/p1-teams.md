@@ -14,7 +14,7 @@
 
 ## I. Section 04 (MW 5:00PM-6:15PM)
 
-### Team 1
+### Team 1 - *The Finder*
 - Alava, Jonathan
 - Samuel Cox
 - Kyle Cress
