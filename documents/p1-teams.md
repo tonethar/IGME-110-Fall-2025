@@ -145,7 +145,7 @@
 - Anthony Cianfrini
 - Amanda Duffy
 
-### Team 3
+### Team 3 - *An app that allows users to locate various animals and nature trails near them, as well as how to responsibly feed them*
 - Ethan Eddy
 - Sebastian Greco
 - Laura Gutaman
