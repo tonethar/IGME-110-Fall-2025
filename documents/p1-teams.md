@@ -14,7 +14,7 @@
 
 ## I. Section 04 (MW 5:00PM-6:15PM)
 
-### Team 1
+### Team 1 - *“Dormbot” - the one stop solution for any roommate issue*
 - Alava, Jonathan
 - Samuel Cox
 - Kyle Cress
@@ -39,7 +39,7 @@
 - Hunter Mowrey
 - Cody Oleksak
 
-### Team 5
+### Team 5 - *Drawbed - a bed that will not let you sleep in*
 - Elijah Saylor
 - Avery Schrader
 - Theo Scudo
