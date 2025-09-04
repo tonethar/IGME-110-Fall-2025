@@ -14,7 +14,7 @@
 
 ## I. Section 04 (MW 5:00PM-6:15PM)
 
-### Team 1 - *The Finder*
+### Team 1
 - Alava, Jonathan
 - Samuel Cox
 - Kyle Cress
@@ -91,7 +91,7 @@
 
 ## III. Section 06 (TR 5:00PM-6:15PM)
 
-### Team 1
+### Team 1 - *The Finder*
 - Tommy Barone
 - Braeden Buckley
 - Ethan Carpenter
