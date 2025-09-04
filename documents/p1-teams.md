@@ -62,7 +62,7 @@
 - Luke Edelmann
 - Jamison Eng
 
-### Team 3
+### Team 3 - *ARG Pirate Finder*
 - Trevin Fruehauf
 - Noah Holzheimer
 - Andie Kiener
