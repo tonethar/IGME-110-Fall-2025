@@ -133,7 +133,7 @@
 
 ## IV. Section 09 (TR 3:30PM-4:45PM)
 
-### Team 1
+### Team 1 - *A product that gamifies chores and general tasks*
 - Luna Berl
 - Alessia Bianchimano
 - Nick Bisordi
