@@ -163,7 +163,7 @@
 - Hudson Reeves
 - Trevor Ringhisen
 
-### Team 6
+### Team 6 - *Lavigator - a device that helps users find nearby bathrooms*
 - Di'Anny Santana
 - Adam Shaw
 - Emmett Sier
