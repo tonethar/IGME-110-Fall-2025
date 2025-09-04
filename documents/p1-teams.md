@@ -68,7 +68,7 @@
 - Andie Kiener
 - Quinn McCormick
 
-### Team 4 - *Smart Hovering Robotic Executive Assistance Kit(S.H.R.E.A.K.) - drone-based tool to completely eliminate procrastination*
+### Team 4 - *Smart Hovering Robotic Executive Assistance Kit (S.H.R.E.A.K.) - drone-based tool to completely eliminate procrastination*
 - Cole Joly
 - Jack Lindsey-noble	
 - Maddy Lohr
