@@ -122,7 +122,7 @@
 - Joel Wallingford
 - Abby Wiley
 
-### Team 6
+### Team 6 - *Trinket - the app for collectors!*
 - Nicora Wiseley
 - Onyx Wong
 - William Yi
