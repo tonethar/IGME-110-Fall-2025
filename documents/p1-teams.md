@@ -151,13 +151,13 @@
 - Laura Gutaman
 - Owen Katz
 
-### Team 4
+### Team 4 - *Social Fashion App for people looking for style!*
 - Lux Kopp
 - Firdavs Muqimtoshov
 - Greg Murray
 - Jeremy Nivar
 
-### Team 5
+### Team 5 - *ARit - Massively crowd-sourced AR pedestrian mapping app*
 - Emmanuel Olivares
 - Zach Palumbo
 - Hudson Reeves
