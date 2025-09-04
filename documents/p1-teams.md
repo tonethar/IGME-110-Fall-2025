@@ -20,13 +20,13 @@
 - Kyle Cress
 - Charlie Davis
 
-### Team 2
+### Team 2 - *Arachnophobia - tech glasses*
 - Draco Del Toro
 - Bonnie Denise
 - Zoe DeVore
 - Ethan Elston
 
-### Team 3
+### Team 3 - *HoneyLink - social network for the socially anxious*
 - Zach Fedorwich
 - Dante Ferreira
 - Jack Glastetter
