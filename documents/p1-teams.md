@@ -91,7 +91,7 @@
 
 ## III. Section 06 (TR 5:00PM-6:15PM)
 
-### Team 1 - *The Finder*
+### Team 1 - *The Finder - It finds anything!*
 - Tommy Barone
 - Braeden Buckley
 - Ethan Carpenter
