@@ -139,13 +139,13 @@
 - Nick Bisordi
 - Noah Bonafede
 
-### Team 2
+### Team 2 - *Aca-de-meet - "Streetpass for colleges*
 - Fiona Chan
 - Mitzi Chen
 - Anthony Cianfrini
 - Amanda Duffy
 
-### Team 3 - *An app that allows users to locate various animals and nature trails near them, as well as how to responsibly feed them*
+### Team 3 - *Index of Nature - locate various animals and nature trails and responsibly feed them*
 - Ethan Eddy
 - Sebastian Greco
 - Laura Gutaman
