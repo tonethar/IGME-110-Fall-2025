@@ -97,25 +97,25 @@
 - Ethan Carpenter
 - Ricardo Charles
 
-### Team 2
+### Team 2 - *CozPlanner - "Plan to Play!"*
 - Clyde Collins
 - Kaitlyn Gray
 - Quinn Halaby
 - Isaac Knowlton
 
-### Team 3
+### Team 3 - *SlangLang - Gen Z Translator*
 - Kaiden Lakheeram
 - Kevin Lao	
 - Zoey Lapidus
 - Lush Lu
 
-### Team 4
+### Team 4 - *ARG Jump - Pokemon GO, but with real platforms*
 - Meadow McKeegan
 - Cam Murphy
 - Joaquin Parada
 - David Poore
 
-### Team 5
+### Team 5 - *SugarDeity - match your TTRPG character with the perfect Patron!*
 - Autumn Seidlitz
 - Alex Sharpe
 - Philip Thomas
