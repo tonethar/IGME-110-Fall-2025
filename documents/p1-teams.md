@@ -139,7 +139,7 @@
 - Nick Bisordi
 - Noah Bonafede
 
-### Team 2 - *Aca-de-meet - "Streetpass for colleges*
+### Team 2 - *AcaDeMeet - "Streetpass for colleges*
 - Fiona Chan
 - Mitzi Chen
 - Anthony Cianfrini
