@@ -170,7 +170,7 @@
 - Adon Smith-Griffin
 - Takeshi Tatsumi
 
-### Team 7
+### Team 7 - *Boat Case - a phone case containing a compressed life vest*
 - Brian Teruya
 - Sam Thompson-Wise
 - Henry Watson
