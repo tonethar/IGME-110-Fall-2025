@@ -56,7 +56,7 @@
 - Luther Barreiro-Roxo
 - Tanai Beeram
 
-### Team 2
+### Team 2 - *Smart shoes for the chronically tardy*
 - Noah Brutcher
 - Luan Dunlap
 - Luke Edelmann
