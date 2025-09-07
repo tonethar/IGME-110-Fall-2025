@@ -32,7 +32,7 @@
 - Jack Glastetter
 - Jason Herriott
 
-### Team 4
+### Team 4 - *Smart Bite - app and physical product that monitors a user's spending habits*
 - Diana Kariaka
 - Aidan Lees
 - Palmer Martin
