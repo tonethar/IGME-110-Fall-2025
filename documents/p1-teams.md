@@ -50,7 +50,7 @@
 
 ## II. Section 05 (MW 6:30PM -7:45PM)
 
-### Team 1
+### Team 1 - *Sociable - app for the socially anxious*
 - Charisma Allen
 - Logan Babb
 - Luther Barreiro-Roxo
