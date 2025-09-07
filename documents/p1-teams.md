@@ -80,7 +80,7 @@
 - Lyric Preston
 - Junghun Shin
 
-### Team 6
+### Team 6 *WizeWizard - app that helps the elderly who struggle with technology*
 - Aaron Smiljanic
 - Lane Velasco
 - Andrew Viera
