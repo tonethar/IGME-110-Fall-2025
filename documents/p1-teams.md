@@ -74,7 +74,7 @@
 - Maddy Lohr
 - Mikey Mirmigos
 
-### Team 5
+### Team 5 - *Social Anti-procrastination App*
 - Ian Oppermann 
 - Connor Peck
 - Lyric Preston
