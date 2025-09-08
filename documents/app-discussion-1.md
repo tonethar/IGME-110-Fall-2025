@@ -4,11 +4,16 @@
 - Application Definition Statement - What’s it do? Who’s it for?
 - Apps should be a focused solution to a well-defined problem. Build scalpels, not Swiss Army knives
 - Features should support the application definition statement
-  - *OK* app def statement  - “Smart gloves that constrict and shock the user when they doom scroll too much”
-  - *OK* features - gloves heat up, constrict, and lock up  when users doom scroll too much
-  - Better! app def statement  - “AI-enabled gloves for users who want to be more productive in their lives”
-  - Better! features - companion app for categorizing activities (encourage/discourage) and thresholds for reward/correction, Haptic feedback from gloves to signal to users when thresholds are met, quick removal and donning of gloves
-  - Other features - snacking/junk food detection 
+  - *OK* app def statement  - *Smart gloves that constrict and shock the user when they doom scroll too much*
+  - *OK* features
+    - gloves heat up, constrict, and lock up  when users doom scroll too much
+  - Better! app def statement  - *AI-enabled gloves for users who want to be more productive in their lives*
+  - Better! features
+    - companion app for categorizing activities (encourage/discourage)
+    - thresholds for reward/correction
+    - haptic feedback from gloves to signal to users when thresholds are met
+    - quick removal and donning of gloves
+    - Other features - snacking/junk food detection 
 - Gemini Brainstorming - https://g.co/gemini/share/bb2030548016
 - Remember that this is also App Proposal Cage Match
 
