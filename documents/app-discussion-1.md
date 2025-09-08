@@ -14,6 +14,8 @@
 
 
 ## II. UI Considerations
+- You need to provide some UI mockups in your proposal
 - You will probably follow conventions
 - [Apple HIG (Human Interface Guidelines)](https://developer.apple.com/design/human-interface-guidelines/)
   - The Patterns and Components categories are probably most useful right now
+- [Google Material Design 3](https://m3.material.io/)
