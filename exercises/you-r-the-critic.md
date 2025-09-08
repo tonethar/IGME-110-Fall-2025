@@ -7,7 +7,7 @@
   - [GameStudies](https://gamestudies.org/2502)
   - [Journal of Games Criticism](https://gamescriticism.org/)
   - [First Monday](https://firstmonday.org/ojs/index.php/fm/index)
-- Read through the article fully once, and then go back a second time to answer these questions (completely):
+- Read through the article fully once, and then go back a second time to answer these questions (***fully and completely***):
   - *Is it clear from the title and the first paragraph what the author is trying to convey? Why or why not?*
   - *What is the author’s claim or argument? Do you think they were successful in defending it?*
   - *Was it easy for you to follow their ideas and understand what they’re trying to tell you/the point they’re trying to make? Why or why not?*
