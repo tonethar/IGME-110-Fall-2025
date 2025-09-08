@@ -12,7 +12,7 @@
   - *What is the author’s claim or argument? Do you think they were successful in defending it?*
   - *Was it easy for you to follow their ideas and understand what they’re trying to tell you/the point they’re trying to make? Why or why not?*
   - *Did you notice any errors in grammar, syntax, spelling, or punctuation? If so, how did they impact your opinion of the article and author?*
-  - *Provide a full citation in APA format for the article you read - you can use - https://zbib.org/
+  - *Provide a full citation in APA format for the article you read - you can use* - https://zbib.org/
 - Provide a full citation in APA format for the article you read - you can use https://zbib.org/ to quickly create a citation
 - Submit the finished document in Word (.docx) format to the Assignment (dropbox) in myCourses
 - See the myCourses dropbox due date
