@@ -7,8 +7,9 @@
   - *OK* app def statement  - *Smart gloves that constrict and shock the user when they doom scroll too much*
   - *OK* features
     - gloves heat up, constrict, and lock up  when users doom scroll too much
+      - funny! But we can do better ...
   - Better! app def statement  - *AI-enabled gloves for users who want to be more productive in their lives*
-  - Better! features
+  - More Better! features
     - companion app for categorizing activities (encourage/discourage)
     - thresholds for reward/correction
     - haptic feedback from gloves to signal to users when thresholds are met
