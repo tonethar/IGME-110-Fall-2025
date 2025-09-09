@@ -170,7 +170,7 @@
 - Adon Smith-Griffin
 - Takeshi Tatsumi
 
-### Team 7 - *Boat Case - a phone case containing a compressed life vest*
+### Team 7 - *The Phone Drone - Lost your phone? Don't look for it, let it find you!*
 - Brian Teruya
 - Sam Thompson-Wise
 - Henry Watson
