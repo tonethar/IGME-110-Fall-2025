@@ -28,8 +28,15 @@
 ---
 
 ## III. Instructions
-- Copy over the template from 
+- Create a single feedback document in Google drive named `Feedback for team <REVIEWEE-team-number>, from team <REVIEWER-team-number>, section <your-section-number>`
+- Paste in the feedback questionnaire template from the link above
+- One group member is the designated scribe who will type the answers to the questions into the document
+- While reading/analyzing the draft, going from section to section, DISCUSS these questions as a group
+- ANSWER these questions as a group, and the scribe will type the answers into the doc
+  - too much to type? Giving the scribe a single assistant scribe is OK!
 
+
+---
 
 ## IV. When you are done with the first critique
 - Post the link in the ***Week 3B - P1 FEEDBACK - Links GO HERE*** thread in your section specific channel
