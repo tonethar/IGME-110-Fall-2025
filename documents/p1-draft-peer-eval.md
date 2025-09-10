@@ -1,4 +1,4 @@
-# Project 1 - Product Proposal - DRAFT - Peer Eval Process
+# Project 1 - Product Proposal DRAFT - Peer Eval Process
 
 
 ## I. Overview
