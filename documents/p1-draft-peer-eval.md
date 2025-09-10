@@ -25,6 +25,23 @@
 - Team #5 will review teams 1 & 6
 - Team #6 will review teams 1 & 2
 
+### Section 06 (TR 5:00PM - 6:15 PM)
+- Team #1 will review teams 2 & 3
+- Team #2 will review teams 3 & 4
+- Team #3 will review teams 4 & 5
+- Team #4 will review teams 5 & 6
+- Team #5 will review teams 1 & 6
+- Team #6 will review teams 1 & 2
+
+### Section 09 (TR 3:30PM - 4:45 PM)
+- Team #1 will review teams 2 & 3
+- Team #2 will review teams 3 & 4
+- Team #3 will review teams 4 & 5
+- Team #4 will review teams 5 & 6
+- Team #5 will review teams 1 & 7
+- Team #6 will review teams 2 & 7
+- Team #7 will review teams 1 & 6
+
 ---
 
 ## III. Instructions
