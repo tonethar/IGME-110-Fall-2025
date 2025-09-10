@@ -34,7 +34,7 @@
 - One group member is the designated scribe who will type the answers to the questions into the document
 - While reading/analyzing the draft, going from section to section, DISCUSS these questions as a group
 - ANSWER these questions as a group, and the scribe will type the answers into the doc
-  - too much to type? Giving the scribe a single assistant scribe is OK!
+  - too much to type? Giving the scribe an "assistant scribe" is OK!
 
 
 ---
