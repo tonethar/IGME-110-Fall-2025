@@ -32,7 +32,7 @@
 - Create a single feedback document in Google drive named `Feedback for team <REVIEWEE-team-number>, from team <REVIEWER-team-number>, section <your-section-number>` and make it viewable to all of RIT
 - Paste in the feedback questionnaire template from the link above
 - One group member is the designated scribe who will type the answers to the questions into the document
-- While reading/analyzing the draft, going from section to section, DISCUSS these questions as a group
+- While reading/analyzing the draft, progressing from section to section in the document, DISCUSS these questions as a group
 - ANSWER these questions as a group, and the scribe will type the answers into the doc
   - too much to type? Giving the scribe an "assistant scribe" is OK!
 
