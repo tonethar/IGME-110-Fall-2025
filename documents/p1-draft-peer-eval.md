@@ -43,6 +43,7 @@
 - Post the link in the ***Week 3B - P1 FEEDBACK - Links GO HERE*** thread in your section specific channel
 - In your post title be sure to identify the REVIEWER and REVIEWEE - Example: *Team 1's review of Team 2's "ScrollGuard" proposal*
 - Move on and critique the second team your group was assigned
+- There is also a required submission to a myCourses "dropbox" - see the myCourses "Assignments" tab for the due date/time. One submission per team, please.
 
 ---
 
