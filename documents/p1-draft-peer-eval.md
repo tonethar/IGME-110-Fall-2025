@@ -14,16 +14,16 @@
 - Team #1 will review teams 2 & 3
 - Team #2 will review teams 3 & 4
 - Team #3 will review teams 4 & 5
-- Team #4 will review teams 1 & 2
-- Team #5 will review teams 1 & 5
+- Team #4 will review teams 1 & 5
+- Team #5 will review teams 1 & 2
 
 ### Section 05 (MW 6:30PM - 7:45 PM)
 - Team #1 will review teams 2 & 3
 - Team #2 will review teams 3 & 4
 - Team #3 will review teams 4 & 5
 - Team #4 will review teams 5 & 6
-- Team #5 will review teams 1 & 2
-- Team #6 will review teams 1 & 6
+- Team #5 will review teams 1 & 6
+- Team #6 will review teams 1 & 2
 
 ---
 
