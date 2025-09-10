@@ -7,7 +7,28 @@
 
 ---
 
-## II. Reviewer/Reviewee assignments
+
+## II. Instructions
+- You will critique one team's draft proposal at a time, each team you are assigned (see section IV. below) will be critiqued in a separate document
+- Create a single feedback document in Google drive named `Feedback for team <REVIEWEE-team-number>, from team <REVIEWER-team-number>, section <your-section-number>` and make it viewable to all of RIT
+- Paste in the feedback questionnaire template from the link above
+- One group member is the designated scribe who will type the answers to the questions into the document
+- While reading/analyzing the draft, progressing from section to section in the document, DISCUSS these questions as a group
+- ANSWER these questions as a group, and the scribe will type the answers into the doc
+  - too much to type? Giving the scribe an "assistant scribe" is OK!
+
+
+---
+
+## III. When you are done with the first critique
+- Post the link in the ***Week 3B - P1 FEEDBACK - Links GO HERE*** thread in your section specific channel
+- In your post title be sure to identify the REVIEWER and REVIEWEE - Example: *Team 1's review of Team 2's "ScrollGuard" proposal*
+- Move on and critique the second team your group was assigned
+- There is also a required submission to a myCourses "dropbox" - see the myCourses "Assignments" tab for the due date/time. One submission per team, please.
+
+---
+
+## IV. Reviewer/Reviewee assignments
 
 ### Section 04 (MW 5:00PM - 6:15 PM)
 
@@ -41,27 +62,5 @@
 - Team #5 will review teams 1 & 7
 - Team #6 will review teams 2 & 7
 - Team #7 will review teams 1 & 6
-
----
-
-## III. Instructions
-- You will critique one team's draft proposal at a time, each team you are assigned will be critiqued in a separate document
-- Create a single feedback document in Google drive named `Feedback for team <REVIEWEE-team-number>, from team <REVIEWER-team-number>, section <your-section-number>` and make it viewable to all of RIT
-- Paste in the feedback questionnaire template from the link above
-- One group member is the designated scribe who will type the answers to the questions into the document
-- While reading/analyzing the draft, progressing from section to section in the document, DISCUSS these questions as a group
-- ANSWER these questions as a group, and the scribe will type the answers into the doc
-  - too much to type? Giving the scribe an "assistant scribe" is OK!
-
-
----
-
-## IV. When you are done with the first critique
-- Post the link in the ***Week 3B - P1 FEEDBACK - Links GO HERE*** thread in your section specific channel
-- In your post title be sure to identify the REVIEWER and REVIEWEE - Example: *Team 1's review of Team 2's "ScrollGuard" proposal*
-- Move on and critique the second team your group was assigned
-- There is also a required submission to a myCourses "dropbox" - see the myCourses "Assignments" tab for the due date/time. One submission per team, please.
-
----
 
 
