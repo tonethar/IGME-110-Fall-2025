@@ -29,7 +29,7 @@
 
 ## III. Instructions
 - You will critique one team's draft proposal at a time, each team you are assigned will be critiqued in a separate document
-- Create a single feedback document in Google drive named `Feedback for team <REVIEWEE-team-number>, from team <REVIEWER-team-number>, section <your-section-number>`
+- Create a single feedback document in Google drive named `Feedback for team <REVIEWEE-team-number>, from team <REVIEWER-team-number>, section <your-section-number>` -m make it viewable to all of RIT
 - Paste in the feedback questionnaire template from the link above
 - One group member is the designated scribe who will type the answers to the questions into the document
 - While reading/analyzing the draft, going from section to section, DISCUSS these questions as a group
