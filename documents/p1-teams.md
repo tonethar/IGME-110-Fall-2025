@@ -133,13 +133,13 @@
 
 ## IV. Section 09 (TR 3:30PM-4:45PM)
 
-### Team 1 - *A product that gamifies chores and general tasks*
+### Team 1 - *Task Town - A product that gamifies chores and general tasks*
 - Luna Berl
 - Alessia Bianchimano
 - Nick Bisordi
 - Noah Bonafede
 
-### Team 2 - *AcaDeMeet - "Streetpass for colleges"*
+### Team 2 - *AcadeMeet! - "Streetpass for colleges"*
 - Fiona Chan
 - Mitzi Chen
 - Anthony Cianfrini
