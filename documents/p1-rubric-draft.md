@@ -1,5 +1,7 @@
 # Rubric for P1 Product Proposal DRAFT
 
+---
+
 ## 1 - Executive Summary
 - The Summary/Conclusion Writer will provide  a high-level overview of the application. This section should answer the following:
   - Give us a "high concept" product statement: Meaning … *What is the application’s NAME?* *What does it DO?*
