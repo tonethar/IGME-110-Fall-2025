@@ -31,6 +31,14 @@
 ## IV. Reviewer/Reviewee assignments
 
 ### Section 04 (MW 5:00PM - 6:15 PM)
+#### Proposals
+- Team #1 - [DormBot](https://docs.google.com/document/d/1A86-RH_dSdisWNWsSNYB3mgmKoKKDuyG7HY-91mdD8c/edit?usp=sharing)
+- Team #2 - [Nobia Glasses](https://docs.google.com/document/d/1-TfvikerRiJ_sxXr_78DJnppP52ppb8Fw1hyHTN6tdU/edit?usp=sharing)
+- Team #3 - [HoneyLink](https://docs.google.com/document/d/1mcO5s8PdDmv3bmxNSA5UwAWad708IbsvJbmuhKxeblU/edit?usp=sharing )
+- Team #4 - [Smart Bite](https://docs.google.com/document/d/13i0IrenwQYDWUxiySp-QSbQYXVuSWhdFn8qrziqcjBU/edit?usp=sharing (https://docs.google.com/document/d/13i0IrenwQYDWUxiySp-QSbQYXVuSWhdFn8qrziqcjBU/edit?usp=sharing ()
+- Team #5 - [DrawBed](https://docs.google.com/document/d/1BKL0N3do2hLapz8hDPG-qUHrmkk6BxvHUQfsnTW0PoU/edit?usp=sharing)
+
+#### Reviews
 
 - Team #1 will review teams 2 & 3
 - Team #2 will review teams 3 & 4
@@ -38,15 +46,35 @@
 - Team #4 will review teams 1 & 5
 - Team #5 will review teams 1 & 2
 
+---
+
 ### Section 05 (MW 6:30PM - 7:45 PM)
+#### Proposals
+- Team #1 - []()
+- Team #2 - []()
+- Team #3 - []()
+- Team #4 - []()
+- Team #5 - []()
+
+#### Reviews
 - Team #1 will review teams 2 & 3
 - Team #2 will review teams 3 & 4
 - Team #3 will review teams 4 & 5
 - Team #4 will review teams 5 & 6
 - Team #5 will review teams 1 & 6
 - Team #6 will review teams 1 & 2
+
+---
 
 ### Section 06 (TR 5:00PM - 6:15 PM)
+#### Proposals
+- Team #1 - []()
+- Team #2 - []()
+- Team #3 - []()
+- Team #4 - []()
+- Team #5 - []()
+
+#### Reviews
 - Team #1 will review teams 2 & 3
 - Team #2 will review teams 3 & 4
 - Team #3 will review teams 4 & 5
@@ -54,7 +82,17 @@
 - Team #5 will review teams 1 & 6
 - Team #6 will review teams 1 & 2
 
+---
+
 ### Section 09 (TR 3:30PM - 4:45 PM)
+#### Proposals
+- Team #1 - []()
+- Team #2 - []()
+- Team #3 - []()
+- Team #4 - []()
+- Team #5 - []()
+
+#### Reviews
 - Team #1 will review teams 2 & 3
 - Team #2 will review teams 3 & 4
 - Team #3 will review teams 4 & 5
