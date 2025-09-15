@@ -54,7 +54,7 @@
 - Team #3 - [ARG Pirate Finder](https://docs.google.com/document/d/1tzrQMHJowBPgQdm1xaGygTwZxXRdxHLsHSw84XfLRNo/edit?usp=sharing)
 - Team #4 - [S.H.R.E.A.K. Productivity Drone](https://docs.google.com/document/d/14WnNXT84CasDABxbFuR72EbJmaDWTN3NrlY52vXtZQw/edit?usp=sharing)
 - Team #5 - [Do Your Work](https://docs.google.com/document/d/1JFtKOUQrOJW0feuypkhTJdCYGcT7z3gCbnt0Gd_IP10/edit?usp=sharing)
-- [Wize Wizard](https://docs.google.com/document/d/1CFibeTDmhyD8sfRfUQU_JTr9yzgUQAD7-Nep1RPLAz0/edit?usp=sharing)
+- Team #6 - [Wize Wizard](https://docs.google.com/document/d/1CFibeTDmhyD8sfRfUQU_JTr9yzgUQAD7-Nep1RPLAz0/edit?usp=sharing)
 
 #### Reviews
 - Team #1 will review teams 2 & 3
