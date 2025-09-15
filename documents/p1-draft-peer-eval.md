@@ -35,7 +35,7 @@
 - Team #1 - [DormBot](https://docs.google.com/document/d/1A86-RH_dSdisWNWsSNYB3mgmKoKKDuyG7HY-91mdD8c/edit?usp=sharing)
 - Team #2 - [Nobia Glasses](https://docs.google.com/document/d/1-TfvikerRiJ_sxXr_78DJnppP52ppb8Fw1hyHTN6tdU/edit?usp=sharing)
 - Team #3 - [HoneyLink](https://docs.google.com/document/d/1mcO5s8PdDmv3bmxNSA5UwAWad708IbsvJbmuhKxeblU/edit?usp=sharing )
-- Team #4 - [Smart Bite](https://docs.google.com/document/d/13i0IrenwQYDWUxiySp-QSbQYXVuSWhdFn8qrziqcjBU/edit?usp=sharing (https://docs.google.com/document/d/13i0IrenwQYDWUxiySp-QSbQYXVuSWhdFn8qrziqcjBU/edit?usp=sharing ()
+- Team #4 - [Smart Bite](https://docs.google.com/document/d/13i0IrenwQYDWUxiySp-QSbQYXVuSWhdFn8qrziqcjBU/edit?usp=sharing (https://docs.google.com/document/d/13i0IrenwQYDWUxiySp-QSbQYXVuSWhdFn8qrziqcjBU/edit?usp=sharing)
 - Team #5 - [DrawBed](https://docs.google.com/document/d/1BKL0N3do2hLapz8hDPG-qUHrmkk6BxvHUQfsnTW0PoU/edit?usp=sharing)
 
 #### Reviews
