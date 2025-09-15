@@ -19,7 +19,6 @@
 - UI/UX considerations well-described
 - Creative or innovative elements highlighted
 - At least 3 visual mockups/wireframes included
-- Clear attribution for visual creators
 
 ## 4. Issues & Counterarguments
 - Thoughtful consideration of multiple potential objections
