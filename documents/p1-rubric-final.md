@@ -1,6 +1,8 @@
 # Rubric For Final Version of Product Proposal
 - What a 100% looks like:
 
+---
+
 ## 1. Executive Summary
 - Clear, concise product name and description
 - Target audience is well-defined and specific
