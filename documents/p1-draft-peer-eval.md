@@ -87,13 +87,13 @@
 
 ### Section 09 (TR 3:30PM - 4:45 PM)
 #### Proposals 09
-- Team #1 - []()
-- Team #2 - []()
-- Team #3 - []()
-- Team #4 - []()
-- Team #5 - []()
-- Team #6 - []()
-- Team #7 - []()
+- Team #1 - [TaskTown](https://docs.google.com/document/d/1FR72tiS6LVKwClmOG_RkSybZc_0whCavLJFO_wYAgt0/edit?usp=drivesdk)
+- Team #2 - [AcadeMeet](https://docs.google.com/document/d/1QMs6RXKswN_g0yQFbyupDxY8tMLBE0EH4GwpKxcCgoA/edit?tab=t.0#heading=h.3hnuvteq7sk2)
+- Team #3 - [Index of Nature](https://docs.google.com/document/d/1crCn1k6rwjhR7o47716p01juu_VnI0jPnFPh7M4GRbQ/edit?tab=t.0)
+- Team #4 - [CorvideCasual](https://docs.google.com/document/d/1OpY6ZFCAYlyv1rK_8zC2SUA0dcybY5BIWb273gXz1-o/edit?usp=sharing)
+- Team #5 - [CampusSplits](https://docs.google.com/document/d/1Urg7rYswG3E33jsWgbK0SaeafLE-W4Qs0e0o2s976Us/edit?usp=sharing)
+- Team #6 - [The Lavigator](https://docs.google.com/document/d/1P6g-9S9WSUfDu0ZtpfYWDtMDXd7YV5pmm2Uzu25j2Xo/edit?usp=sharing)
+- Team #7 - [Phone Drone](https://docs.google.com/document/d/1gBRXcLfwjJdEby7esdXH_kR7rETyGMuT4Ua8YiJP6eE/edit?tab=t.0#heading=h.3hnuvteq7sk2)
 
 #### Reviews 09
 - Team #1 will review teams 2 & 3
