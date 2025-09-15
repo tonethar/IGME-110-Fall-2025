@@ -48,7 +48,7 @@
 ---
 
 ### Section 05 (MW 6:30PM - 7:45 PM)
-#### Proposals
+#### Proposals 05
 - Team #1 - [Sociable](https://docs.google.com/document/d/1LKfHLjaK6YNNyAwJ3ihu-SGX4d_nIqazj0aGenlF5dg/edit?usp=sharing)
 - Team #2 - [Vulpes](https://docs.google.com/document/d/1YIwVLCJ3GIAfyG566bnkSaUT3CTPNON5dY7733xDhDA/edit?tab=t.0#heading=h.3hnuvteq7sk2)
 - Team #3 - [ARG Pirate Finder](https://docs.google.com/document/d/1tzrQMHJowBPgQdm1xaGygTwZxXRdxHLsHSw84XfLRNo/edit?usp=sharing)
@@ -56,7 +56,7 @@
 - Team #5 - [Do Your Work](https://docs.google.com/document/d/1JFtKOUQrOJW0feuypkhTJdCYGcT7z3gCbnt0Gd_IP10/edit?usp=sharing)
 - Team #6 - [Wize Wizard](https://docs.google.com/document/d/1CFibeTDmhyD8sfRfUQU_JTr9yzgUQAD7-Nep1RPLAz0/edit?usp=sharing)
 
-#### Reviews
+#### Reviews 05
 - Team #1 will review teams 2 & 3
 - Team #2 will review teams 3 & 4
 - Team #3 will review teams 4 & 5
@@ -67,14 +67,15 @@
 ---
 
 ### Section 06 (TR 5:00PM - 6:15 PM)
-#### Proposals
-- Team #1 - []()
-- Team #2 - []()
-- Team #3 - []()
-- Team #4 - []()
-- Team #5 - []()
+#### Proposals 06
+- Team #1 - [TheFinder](https://docs.google.com/document/d/1RXfg1yOaBxHDQ-iIjZk_DZimtHoO1sMpL4vTE_aQEZA/edit?tab=t.0#heading=h.4d0scevw54ns)
+- Team #2 - [CozPlanner](https://docs.google.com/document/d/1EJvq8tG3Ce3m-482zZ4Bli-VD2u4aSM3DBnfal1VXyg/edit?tab=t.0#heading=h.3hnuvteq7sk2)
+- Team #3 - [SlangLang](https://docs.google.com/document/d/1QShBzZMcnCxMplBGOZHdhw38PDnh-UEtVCod7g_Kd8A/edit?tab=t.0)
+- Team #4 - [RaiseRunner](https://docs.google.com/document/d/15Knb_RxzNr0NZDiV6bjd8uyXR-OlqOcCaW6gfmayVdI/edit?usp=sharing)
+- Team #5 - [SugarDeity](https://docs.google.com/document/d/1H7gIH5LTCw77ox36mE8VSfy_HlyRJjmej99wUPOAhYo/edit?usp=sharing)
+- Team #6 - [Trinkt](https://docs.google.com/document/d/1CHR09rG3A2wHWtMdcP81wDB8LCcRDffzeTbVv04YM9c/edit?usp=sharing)
 
-#### Reviews
+#### Reviews 06
 - Team #1 will review teams 2 & 3
 - Team #2 will review teams 3 & 4
 - Team #3 will review teams 4 & 5
@@ -85,14 +86,16 @@
 ---
 
 ### Section 09 (TR 3:30PM - 4:45 PM)
-#### Proposals
+#### Proposals 09
 - Team #1 - []()
 - Team #2 - []()
 - Team #3 - []()
 - Team #4 - []()
 - Team #5 - []()
+- Team #6 - []()
+- Team #7 - []()
 
-#### Reviews
+#### Reviews 09
 - Team #1 will review teams 2 & 3
 - Team #2 will review teams 3 & 4
 - Team #3 will review teams 4 & 5
