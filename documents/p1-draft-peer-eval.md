@@ -76,12 +76,12 @@
 - Team #6 - [Trinkt](https://docs.google.com/document/d/1CHR09rG3A2wHWtMdcP81wDB8LCcRDffzeTbVv04YM9c/edit?usp=sharing)
 
 #### Reviews 06
-- Team #1 will review teams 2 & 3
+- Team #1 will review teams [2](https://docs.google.com/document/d/1iXhD2ThzLfIfA1bhcm7y4kndowufafa-dxLtr9zVUkU/edit?usp=sharing) & 3
 - Team #2 will review teams 3 & 4
-- Team #3 will review teams 4 & 5
-- Team #4 will review teams 5 & 6
+- Team #3 will review teams 4 & [5](https://docs.google.com/document/d/1PuvoXOYOSQUn21ws5bMK9TkTNn52eab0t-efLACeoKQ/edit?tab=t.0)
+- Team #4 will review teams [5](https://docs.google.com/document/d/1rqvldcgHYT4B54GV2cWLKrALeKtp87wmeSRo1N-AqTc/edit?usp=sharing) & 6
 - Team #5 will review teams 1 & 6
-- Team #6 will review teams 1 & 2
+- Team #6 will review teams [1](https://docs.google.com/document/d/1AEHAslwAe8hc0FB6mC5tt4HjlN-TteuAPCGAzTZE7YY/edit?usp=sharing) & [2](https://docs.google.com/document/d/1ARmzXg8F7ptFarMrQWDdRiOMPPh-eD3J9M61tzmQe2g/edit?usp=sharing)
 
 ---
 
