@@ -59,7 +59,7 @@
 #### Reviews 05
 - Team #1 will review teams [2](https://docs.google.com/document/d/18rTUwcSjKB3qd5DH-brJmeZM3-rHes9eqxQitg2cg8c/edit?usp=sharing) & [3](https://docs.google.com/document/d/1K6hQsyX3A3vRJxphYH-D3WiRgaoz6XozYt5Hl7GYKxI/edit?usp=sharing)
 - Team #2 will review teams [3](https://docs.google.com/document/d/1Wq5AG3UXlTlfv8XLpipddp_OySBHLBoX6y8vS81LyPw/edit?tab=t.0) & [4](https://docs.google.com/document/d/1Cjtwt7FkASGEMuydH5vXmpVpIqTSFUQSkhECxYUFnBo/edit?tab=t.0)
-- Team #3 will review teams [4](https://docs.google.com/document/d/1vzmr6bDWVj1bghLgucTWPdFCF-E-AP80-lbGe6FkEUw/edit?tab=t.0) & [5](https://docs.google.com/document/d/13dKboyVM_Q9DxFU1oNzgyRijfZySpjn0OFcvKt6zkBs/edit?tab=t.0)
+- Team #3 will review teams [4](https://docs.google.com/document/d/1vzmr6bDWVj1bghLgucTWPdFCF-E-AP80-lbGe6FkEUw/edit?tab=t.0) & [5](https://docs.google.com/document/d/13dKboyVM_Q9DxFU1oNzgyRijfZySpjn0OFcvKt6zkBs/edit?tab=t.0) (*needs to be public to all of RIT*)
 - Team #4 will review teams [5](https://docs.google.com/document/d/14hThkx4TTgM-4qPG9MsMsXk8F-a1hnL6iS1PQVrNpsQ/edit?usp=sharing) & [6](https://docs.google.com/document/d/1VgeGBSS9r3mXiRorsv_FJmMAC_EZIQyK5LZt06_g-yo/edit?usp=sharing)
 - Team #5 will review teams [1](https://docs.google.com/document/d/1izy13kGuJP5kSEQbKBhcWtLtkEaRrLdwk6j32rQroXE/edit?usp=sharing) & 6
 - Team #6 will review teams [1](https://docs.google.com/document/d/1TCplRahe92Ec8iGM6xM1W3H4THDF80JtzqmmC2c8Dww/edit?usp=sharing) & [2](https://docs.google.com/document/d/1b7xyES9SPVhi7d7pZeC6iUz00-4UYsmyYysH9LzJ7DM/edit?usp=sharing)
