@@ -39,8 +39,8 @@
 - Team #5 - [DrawBed](https://docs.google.com/document/d/1BKL0N3do2hLapz8hDPG-qUHrmkk6BxvHUQfsnTW0PoU/edit?usp=sharing)
 
 #### Reviews 04
-- Team #1 will review teams 2 & 3
-- Team #2 will review teams 3 & 4
+- Team #1 will review teams [2](https://docs.google.com/document/d/12EgaMuBECcOIftPOBTTPJpLTWnRBKtMn6IeHDPmjjBA/edit?usp=sharing) & [3](https://docs.google.com/document/d/1vc7bvGXgoIuucceiiI6fFd-3QVbi3OXKmkstflNXgho/edit?tab=t.0#heading=h.bc07jkbc6ti9)
+- Team #2 will review teams [3](https://docs.google.com/document/d/1Xpo7OojJbtYtlxVoO1LB1hJk1_IaPed9zaPkzgnUIYQ/edit?usp=sharing) & [4](https://docs.google.com/document/d/1yz247KeD-7Ig9zmntjiSVQGSAoQVWTera7XiX6DhVqs/edit?tab=t.0)
 - Team #3 will review teams 4 & 5
 - Team #4 will review teams 1 & 5
 - Team #5 will review teams 1 & 2
