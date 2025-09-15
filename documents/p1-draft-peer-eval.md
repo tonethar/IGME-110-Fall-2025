@@ -96,12 +96,12 @@
 - Team #7 - [Phone Drone](https://docs.google.com/document/d/1gBRXcLfwjJdEby7esdXH_kR7rETyGMuT4Ua8YiJP6eE/edit?tab=t.0#heading=h.3hnuvteq7sk2)
 
 #### Reviews 09
-- Team #1 will review teams 2 & 3
-- Team #2 will review teams 3 & 4
-- Team #3 will review teams 4 & 5
-- Team #4 will review teams 5 & 6
+- Team #1 will review teams [2](https://docs.google.com/document/d/14M7UIp_PSkpZb2feAi5VRoI7DBkxOJ4mtig1FP3PKH0) & [3](https://docs.google.com/document/d/1RREBsGJWDz0QAXzt75SafuRcOw3PquTJHAoJdeq8owY/edit?usp=sharing)
+- Team #2 will review teams [3](https://docs.google.com/document/d/1PWS1BIl14c-AYCdBWfZb9gGlhuACjLs1vNP8n6Cxr2g/edit?usp=sharing) & 4
+- Team #3 will review teams [4](https://docs.google.com/document/d/1OpY6ZFCAYlyv1rK_8zC2SUA0dcybY5BIWb273gXz1-o/edit?tab=t.0#heading=h.3hnuvteq7sk2) & 5
+- Team #4 will review teams [5](https://docs.google.com/document/d/1QJ_zlQB6sc3NPHzmKpFauB-k7IALiXFwNxykpDBU9No/edit?tab=t.0#heading=h.bc07jkbc6ti9) & [6](https://docs.google.com/document/d/1ao3SCJjK50o1Az12Dqb-3mUKAcKLxf0kSV4GF11TRpk/edit?tab=t.0)
 - Team #5 will review teams 1 & 7
-- Team #6 will review teams 2 & 7
-- Team #7 will review teams 1 & 6
+- Team #6 will review teams [2](https://docs.google.com/document/d/1oi4gVWDmg86y_5hgc-XyfnKDbphIWsJqdf7-wu2uBGI/edit?tab=t.0) & 7
+- Team #7 will review teams 1 & [6](https://docs.google.com/document/d/133VJyXsQUmhTrkHYvssgs6wwJvc99F2ejX8L5qWcU3M/edit?usp=sharing)
 
 
