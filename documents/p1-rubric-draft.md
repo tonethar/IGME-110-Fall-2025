@@ -1,4 +1,4 @@
-## Rubric for P1 Product Proposal DRAFT
+# Rubric for P1 Product Proposal DRAFT
 
 ## 1 - Executive Summary
 - The Summary/Conclusion Writer will provide  a high-level overview of the application. This section should answer the following:
