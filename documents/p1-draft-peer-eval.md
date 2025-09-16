@@ -101,7 +101,7 @@
 - Team #3 will review teams [4](https://docs.google.com/document/d/1OpY6ZFCAYlyv1rK_8zC2SUA0dcybY5BIWb273gXz1-o/edit?tab=t.0#heading=h.3hnuvteq7sk2) & [5](https://docs.google.com/document/d/1IKhioawVMhr-_ddRxCt-aOaWh0ZUEMi-Cc-bz9dBSBY/edit?tab=t.0)
 - Team #4 will review teams [5](https://docs.google.com/document/d/1QJ_zlQB6sc3NPHzmKpFauB-k7IALiXFwNxykpDBU9No/edit?tab=t.0#heading=h.bc07jkbc6ti9) & [6](https://docs.google.com/document/d/1ao3SCJjK50o1Az12Dqb-3mUKAcKLxf0kSV4GF11TRpk/edit?tab=t.0)
 - Team #5 will review teams [1 & 7](https://docs.google.com/document/d/15ofYzOMYMisxbkGDyxI0aw0m47b7vYpuVmFwPQYScpg/edit?usp=sharing)
-- Team #6 will review teams [2](https://docs.google.com/document/d/1oi4gVWDmg86y_5hgc-XyfnKDbphIWsJqdf7-wu2uBGI/edit?tab=t.0) & 7
+- Team #6 will review teams [2](https://docs.google.com/document/d/1oi4gVWDmg86y_5hgc-XyfnKDbphIWsJqdf7-wu2uBGI/edit?tab=t.0) & [7](https://docs.google.com/document/d/1D9fnlOd7wHwRPlETsLoMpTU3uLwf6s66ijGneHWrcKY/edit?tab=t.0)
 - Team #7 will review teams [1](https://docs.google.com/document/d/11NqEFqH1toir7BlA9_mt7yDT0Y0ueLLl-ZA6SMhtVnk/edit?usp=sharing) & [6](https://docs.google.com/document/d/133VJyXsQUmhTrkHYvssgs6wwJvc99F2ejX8L5qWcU3M/edit?usp=sharing)
 
 
