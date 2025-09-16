@@ -76,11 +76,11 @@
 - Team #6 - [Trinkt](https://docs.google.com/document/d/1CHR09rG3A2wHWtMdcP81wDB8LCcRDffzeTbVv04YM9c/edit?usp=sharing)
 
 #### Reviews 06
-- Team #1 will review teams [2](https://docs.google.com/document/d/1iXhD2ThzLfIfA1bhcm7y4kndowufafa-dxLtr9zVUkU/edit?usp=sharing) & 3
-- Team #2 will review teams 3 & 4
+- Team #1 will review teams [2](https://docs.google.com/document/d/1iXhD2ThzLfIfA1bhcm7y4kndowufafa-dxLtr9zVUkU/edit?usp=sharing) & [3](https://docs.google.com/document/d/1xDhUQWQTl6-zyoA9Y2-FBCdf3bIOE-xWEptHoqbNYdU/edit?usp=sharing)
+- Team #2 will review teams [3](https://docs.google.com/document/d/1X-p-lhmzhE9wP4XmG1-SZlwGaYcckuyaGE6Ln1B5YEY/edit?tab=t.0#heading=h.w7k8lznt6i4d) & [4](https://docs.google.com/document/d/1jGfdJZSsLhcov49EEvMKAIRdp_tv4zTIVkANKHD16_4/edit?tab=t.0#heading=h.w7k8lznt6i4d)
 - Team #3 will review teams 4 & [5](https://docs.google.com/document/d/1PuvoXOYOSQUn21ws5bMK9TkTNn52eab0t-efLACeoKQ/edit?tab=t.0)
-- Team #4 will review teams [5](https://docs.google.com/document/d/1rqvldcgHYT4B54GV2cWLKrALeKtp87wmeSRo1N-AqTc/edit?usp=sharing) & 6
-- Team #5 will review teams 1 & 6
+- Team #4 will review teams [5](https://docs.google.com/document/d/1rqvldcgHYT4B54GV2cWLKrALeKtp87wmeSRo1N-AqTc/edit?usp=sharing) & [6](https://docs.google.com/document/d/1LJllBbcid6Sjn2SLa-A9nwOSyJd-wRdGIYBxX5xT940/edit?tab=t.0)
+- Team #5 will review teams [1](https://docs.google.com/document/d/1HUSI-B4r38pxNH62VHsMypNudtvPrCZ9VdZguQQFb68/edit?tab=t.0) & [6](https://docs.google.com/document/d/1uvl-ZA6n50EWujNEGa10dlATkVo7XIcGKxFW6X-pZrM/edit?tab=t.0)
 - Team #6 will review teams [1](https://docs.google.com/document/d/1AEHAslwAe8hc0FB6mC5tt4HjlN-TteuAPCGAzTZE7YY/edit?usp=sharing) & [2](https://docs.google.com/document/d/1ARmzXg8F7ptFarMrQWDdRiOMPPh-eD3J9M61tzmQe2g/edit?usp=sharing)
 
 ---
