@@ -33,10 +33,10 @@
 ### Section 04 (MW 5:00PM - 6:15 PM)
 #### Proposals 04
 - [Team #1](p1-teams.md#team-1---dormbot---the-one-stop-solution-for-any-roommate-issue) - [DormBot](https://docs.google.com/document/d/1A86-RH_dSdisWNWsSNYB3mgmKoKKDuyG7HY-91mdD8c/edit?usp=sharing)
-- Team #2 - [Nobia Glasses](https://docs.google.com/document/d/1-TfvikerRiJ_sxXr_78DJnppP52ppb8Fw1hyHTN6tdU/edit?usp=sharing)
-- Team #3 - [HoneyLink](https://docs.google.com/document/d/1mcO5s8PdDmv3bmxNSA5UwAWad708IbsvJbmuhKxeblU/edit?usp=sharing )
-- Team #4 - [Smart Bite](https://docs.google.com/document/d/13i0IrenwQYDWUxiySp-QSbQYXVuSWhdFn8qrziqcjBU/edit?usp=sharing)
-- Team #5 - [DrawBed](https://docs.google.com/document/d/1BKL0N3do2hLapz8hDPG-qUHrmkk6BxvHUQfsnTW0PoU/edit?usp=sharing)
+- [Team #2](p1-teams.md#team-2---arachnophobia---tech-glasses) - [Nobia Glasses](https://docs.google.com/document/d/1-TfvikerRiJ_sxXr_78DJnppP52ppb8Fw1hyHTN6tdU/edit?usp=sharing)
+- [Team #3](p1-teams.md#team-3---honeylink---social-network-for-the-socially-anxious) - [HoneyLink](https://docs.google.com/document/d/1mcO5s8PdDmv3bmxNSA5UwAWad708IbsvJbmuhKxeblU/edit?usp=sharing )
+- [Team #4](p1-teams.md#team-4---smart-bite---app-and-physical-product-that-monitors-a-users-spending-habits) - [Smart Bite](https://docs.google.com/document/d/13i0IrenwQYDWUxiySp-QSbQYXVuSWhdFn8qrziqcjBU/edit?usp=sharing)
+- [Team #5](p1-teams.md#team-5---drawbed---a-bed-that-will-not-let-you-sleep-in) - [DrawBed](https://docs.google.com/document/d/1BKL0N3do2hLapz8hDPG-qUHrmkk6BxvHUQfsnTW0PoU/edit?usp=sharing)
 
 #### Reviews 04
 - Team #1 will review teams [2](https://docs.google.com/document/d/12EgaMuBECcOIftPOBTTPJpLTWnRBKtMn6IeHDPmjjBA/edit?usp=sharing) & [3](https://docs.google.com/document/d/1vc7bvGXgoIuucceiiI6fFd-3QVbi3OXKmkstflNXgho/edit?tab=t.0#heading=h.bc07jkbc6ti9)
