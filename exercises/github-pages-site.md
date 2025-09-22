@@ -59,8 +59,15 @@
 - You can then open them in Chrome to see how the HTML is rendered
 - You can edit their contents in text editors that handle plain text such as VSCode or Notepad++ (but NOT MS Word)
 - We will start off by looking at **minimal.html** in the web browser, and then discussing how HTML *tags* work
+- ... once we've done that together ...
 - ***YOU DO:***
-
+  - launch Visual Studio Code (if you don't have it on your computer, [download it here](https://code.visualstudio.com/))
+  - choose File > Open Folder... and choose the **first-html-pages** folder
+  - make some changes to **minimal.html** ...
+  - change the title to `My GitHub Pages Site`
+  - change the level-1 heading to `My schedule for Fall 2025`
+  - change the list of colors to a list of the courses you are taking this semester
+  - change the list of courses from an ordered list to an *unordered list* (i.e. a bulleted list)
 
 ---
 
@@ -89,7 +96,10 @@
 **links.html**
 - This page adds some information that browsers like (e.g. the character set and language) as well as information used by HTML validators (e.g. `<!DOCTYPE html>`
 - Also note how we can write a bulleted list in HTML
-- And how we create Hypertext links in HTML
+- And how we create Hypertext links in HTML to both local files, and also remote files that are stored outside of our local files system
+- ***YOU DO:***
+  - modify the first two `<a>` tags so that the links open in a new browser window (or tab) when clicked on
+
   
 ```html
 <!DOCTYPE html>
