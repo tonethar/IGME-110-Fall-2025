@@ -70,7 +70,7 @@
     <title>My minimal Color page</title>
   </head>
   <body>
-    <!-- Everything here shows up in the browser window -->
+    <!-- Everything "inside" the body tag shows up in the browser window -->
     <h1>My Fav Colors!</h1>
     <ol>
       <li>Red</li>
