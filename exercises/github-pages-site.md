@@ -296,13 +296,20 @@
 
 ---
 
-2) XX
+2) Check the settings
+
+- Head to Settings, "Code and automation" and click "Pages"
+- Under "Build and deployment", under "Source", select "Deploy from a branch"
+- Use the branch dropdown menu and be sure that the repo is deploying from the main branch
+
+---
+
+3) Upload **index.html** to this repo
 
 
 ---
 
-3) XX
-
+4) Did it work? (it might take a minute or 2)
 - Finally, head to `https://yourGitHubId.github.io/` to see your page
  - for example, my GitHub pages site is at: https://tonethar.github.io/
 - BTW - whenever you update your **index.html** page or other files that are going to be part of your GitHub pages home page, it takes a minute or so for the changes to be visible on `https://yourGitHubId.github.io/`
