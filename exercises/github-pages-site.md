@@ -193,9 +193,9 @@
 - ***YOU DO:***
   - in order to be ready for your next TTRPG session, add D4, D8, D12 and D100  "dice" to the apo and get them functioning
   - give each button a unique background color
-  - optional: can you get the app to display a history of the numbers that were rolled, one on each line? Make it so!
+  - optional: can you get the app to display a history of the numbers that were rolled, one on each line? With the most recent roll at the "top"? Make it so!
     - hint: the `.innerHTML` property of HTML elements will be helpful!
-  - more optional: add a "Clear History" button that will clear out that history
+    - more optional: add a "Clear History" button that will clear out that history
 
 ```html
 <!DOCTYPE html>
