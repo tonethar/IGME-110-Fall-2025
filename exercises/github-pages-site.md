@@ -199,6 +199,10 @@
     #btn20{
       background-color: #f44336;
     }
+
+    button:hover {
+      opacity: 0.8;
+    }
   </style>
 </head>
 <body>
