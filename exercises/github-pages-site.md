@@ -97,11 +97,15 @@
   <title>Links Page</title>
 </head>
 <body>
-  <h1>Some Links</h1>
+  <h1>Some Links (out on the Internet)</h1>
   <ul>
     <li><a href="https://en.wikipedia.org/wiki/Taco">Tacos</a></li>
     <li><a href="https://en.wikipedia.org/wiki/Hummus">Hummus</a></li>
   </ul>
+  <h2>My Other Pages (these are "local" files)</h2>
+  <p><a href="minimal.html">My Minimal Color Page</a></p>
+  <p><a href="tacos.html">Taco Tuesday's Restaurant</a></p>
+  <p><a href="dice-roller.html">Dice Roller</a></p>
 </body>
 </html>
 ```
