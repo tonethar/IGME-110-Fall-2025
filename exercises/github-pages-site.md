@@ -53,7 +53,13 @@
 
 ---
 
-## III. Sample HTML Pages
+## III. HTML "Throw in the deep end"
+
+- See Slides in myCourses content section
+
+---
+
+## IV. Sample HTML Pages
 - Go ahead and copy the HTML and create these files on your computer
   - there's also a zip of these files here --> [first-html-pages.zip](../_files/first-html-pages.zip)
 - You can then open them in Chrome to see how the HTML is rendered
@@ -275,7 +281,7 @@
 
 ---
 
-## IV. Posting an HTML page to GitHub
+## V. Posting an HTML page to GitHub
 - First, you need an **index.html** page to post online -  this will be your GitHub pages "home page":
   - make a copy of **minimal.html** file and name it **index.html**
 - Here are the instructions: https://pages.github.com/ - but here's a simplified version:
@@ -316,7 +322,7 @@
    
 ---
 
-## V. Homework
+## VI. Homework
 - Update **index.html** that is visible on GitHub to also display the links (link code written in HTML, NOT markdown!) from your "listicle" (at least 5 of them)
 - Head to the myCourses Assignments tab and post the link there in the applicable dropbox - be sure to give me the  `https://yourGitHubId.github.io/` "web page" version
 - If you have some time over the weekend, look over the HTML PDFs that are posted to myCourses
