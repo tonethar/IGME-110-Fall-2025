@@ -305,7 +305,7 @@
 
 ---
 
-2) Check the settings (kind of optional, you might not have to do this)
+2) Check the settings (*kind of optional, you might not have to do this*)
 
 - Head to Settings, "Code and automation" and click "Pages"
 - Under "Build and deployment", under "Source", select "Deploy from a branch"
