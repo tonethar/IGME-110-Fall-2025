@@ -284,8 +284,6 @@
 
 1) Create a New Repository named ***yourGitHubId.github.io***
 
-- for example, my GitHub pages repo is here - note the name - https://github.com/tonethar/tonethar.github.io - and note that it contains an **index.html** file
-
 ![screenshot](_images/github-intro-1.png)
 
 ![screenshot](_images/github-intro-2.png)
@@ -294,6 +292,7 @@
 - Make it "Public"
 - Check the box so we get a README.md file
 - Click "Create repository"
+  - for example, my GitHub pages repo is here - note the name - https://github.com/tonethar/tonethar.github.io - and note that it contains an **index.html** file
 
 ---
 
