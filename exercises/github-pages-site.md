@@ -6,7 +6,7 @@
 
 [**II. Markdown vs. HTML/CSS/JS**](#ii-markdown-vs-htmlcssjs)
 
-[**III. HTML "Throw you in the deep end"!**]()
+[**III. HTML "Throw you in the deep end"!**](#iii-html-throw-you-in-the-deep-end)
 
 [**IV. Sample HTML Pages**](#iv-sample-html-pages)
 
