@@ -200,7 +200,7 @@
 - and a *pseudo-class selector* that adds a rollover effect
 - BTW - as HTML files get larger, we generally start to split them up by moving the JavaScript and CSS to separate files (in this class you won't have to to worry about doing this, unless you really want to)
 - ***YOU DO:***
-  - in order to be ready for your next TTRPG session, add D4, D8, D12 and D100  "dice" to the apo and get them functioning
+  - in order to be ready for your next TTRPG session, add D4, D8, D12 and D100  "dice" to the app and get them functioning
   - give each button a unique background color
   - optional: can you get the app to display a history of the numbers that were rolled, one on each line? With the most recent roll at the "top"? Make it so!
     - hint: the `.innerHTML` property of HTML elements will be helpful!
@@ -305,7 +305,7 @@
 
 ---
 
-2) Check the settings
+2) Check the settings (kind of optional, you might not have to do this)
 
 - Head to Settings, "Code and automation" and click "Pages"
 - Under "Build and deployment", under "Source", select "Deploy from a branch"
@@ -328,5 +328,5 @@
 ## VI. Homework
 - Update **index.html** that is visible on GitHub to also display the links (link code written in HTML, NOT markdown!) from your "listicle" (at least 5 of them)
 - Head to the myCourses Assignments tab and post the link there in the applicable dropbox - be sure to give me the  `https://yourGitHubId.github.io/` "web page" version
-- If you have some time over the weekend, look over the HTML PDFs that are posted to myCourses
+- If you have some time look over the HTML PDFs that are posted to myCourses
 - ZIP and attach the updated **first-html-pages** folder (with all of the ***YOU DO*** changes made) 
