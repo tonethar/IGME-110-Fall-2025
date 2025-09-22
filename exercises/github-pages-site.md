@@ -278,14 +278,35 @@
 ## IV. Posting an HTML page to GitHub
 - First, you need an **index.html** page to post online -  this will be your GitHub pages "home page":
   - make a copy of **minimal.html** file and name it **index.html**
-- Here are the instructions: https://pages.github.com/ - but here's a simplifies version
+- Here are the instructions: https://pages.github.com/ - but here's a simplified version:
+
+---
+
+1) Create a New Repository named ***yourGitHubId.github.io***
+
+- for example, my GitHub pages repo is here - note the name - https://github.com/tonethar/tonethar.github.io - and note that it contains an **index.html** file
+
+![screenshot](_images/github-intro-1.png)
+
+![screenshot](_images/github-intro-2.png)
+
+- Give it a name of "yourGitHubId.github.io"
+- Make it "Public"
+- Check the box so we get a README.md file
+- Click "Create repository"
+
+---
+
+2) XX
 
 
+---
 
-- Finally, head to `https://yourGitHubId.github.io/IGME-110-Repo/` to see your page
- - my IGME-110-Repo is at: https://github.com/tonethar/IGME-110-Repo
- - my IGME-110 HTML Web Masterpiece can be viewed at: https://tonethar.github.io/IGME-110-Repo
- - BTW - whenever you update your **index.html** page or other files that are going to be part of your GitHub pages home page, it takes a minute or so for the changes to be visible on `https://yourGitHubId.github.io/`
+3) XX
+
+- Finally, head to `https://yourGitHubId.github.io/` to see your page
+ - for example, my GitHub pages site is at: https://tonethar.github.io/
+- BTW - whenever you update your **index.html** page or other files that are going to be part of your GitHub pages home page, it takes a minute or so for the changes to be visible on `https://yourGitHubId.github.io/`
    
 ---
 
