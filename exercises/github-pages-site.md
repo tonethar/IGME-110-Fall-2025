@@ -135,6 +135,7 @@
 - ***YOU DO:***
   - change the background color of the page to one of the CSS keyword colors listed here - https://www.w3schools.com/cssref/css_colors.php - and be sure to use the keyword in your CSS, not the hexadecimal value
   - using CSS, change the color of all text located inside of `<p></p>` tags to one of the CSS keyword colors listed above
+  - wrap the `<h1></h1>` tag inside of a `<header></header>` tag and then style the header in some way (background-color, spacing etc)
 
 ```html
 <!DOCTYPE html>
@@ -189,6 +190,12 @@
 - and CSS *id selectors*
 - and a *pseudo-class selector* that adds a rollover effect
 - BTW - as HTML files get larger, we generally start to split them up by moving the JavaScript and CSS to separate files (in this class you won't have to to worry about doing this, unless you really want to)
+- ***YOU DO:***
+  - in order to be ready for your next TTRPG session, add D4, D8, D12 and D100  "dice" to the apo and get them functioning
+  - give each button a unique background color
+  - optional: can you get the app to display a history of the numbers that were rolled, one on each line? Make it so!
+    - hint: the `.innerHTML` property of HTML elements will be helpful!
+  - more optional: add a "Clear History" button that will clear out that history
 
 ```html
 <!DOCTYPE html>
