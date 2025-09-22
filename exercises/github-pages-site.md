@@ -276,22 +276,21 @@
 ---
 
 ## IV. Posting an HTML page to GitHub
-- Here are the instructions: https://pages.github.com/
-  - Select "Project site"
-  - Select "Start from scratch"
-  - Head to your **IGME-110-Repo** from last time
-  - When you create an **index.html** file (Step #1) in **IGME-110-Repo**
-  - rather than just typing in `<h1>Hello!</h1>` (Step #2), instead use the HTML from **links.html** above
-  - Don't forget to save ("Commit") **index.html** (Step #3)
-  - For Step #4, click on the **Settings** tab, then click on **Pages**, then select the **main** branch and click the Save button
-  - Finally, head to `https://yourGitHubId.github.io/IGME-110-Repo/` to see your page
-    - my IGME-110-Repo is at: https://github.com/tonethar/IGME-110-Repo
-    - my IGME-110 HTML Web Masterpiece can be viewed at: https://tonethar.github.io/IGME-110-Repo
-  - BTW - whenever you update your **index.html** page, it takes a minute or so for the changes to be visible on `https://yourGitHubId.github.io/IGME-110-Repo`
+- First, you need an **index.html** page to post online -  this will be your GitHub pages "home page":
+  - make a copy of **minimal.html** file and name it **index.html**
+- Here are the instructions: https://pages.github.com/ - but here's a simplifies version
+
+
+
+- Finally, head to `https://yourGitHubId.github.io/IGME-110-Repo/` to see your page
+ - my IGME-110-Repo is at: https://github.com/tonethar/IGME-110-Repo
+ - my IGME-110 HTML Web Masterpiece can be viewed at: https://tonethar.github.io/IGME-110-Repo
+ - BTW - whenever you update your **index.html** page or other files that are going to be part of your GitHub pages home page, it takes a minute or so for the changes to be visible on `https://yourGitHubId.github.io/`
    
 ---
 
 ## V. Homework
-- Update **index.html** to display the links (link code written in HTML, NOT markdown!) from your "listicle" (at least 5 of them)
-- Head to the myCourses Assignments tab and post the link there in the applicable dropbox - be sure to give me the  `https://yourGitHubId.github.io/IGME-110-Repo/` "web page" version
+- Update **index.html** that is visible on GitHub to also display the links (link code written in HTML, NOT markdown!) from your "listicle" (at least 5 of them)
+- Head to the myCourses Assignments tab and post the link there in the applicable dropbox - be sure to give me the  `https://yourGitHubId.github.io/` "web page" version
 - If you have some time over the weekend, look over the HTML PDFs that are posted to myCourses
+- ZIP and attach the updated **first-html-pages** folder (with all of the ***YOU DO*** changes made) 
