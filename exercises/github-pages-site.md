@@ -6,11 +6,13 @@
 
 [**II. Markdown vs. HTML/CSS/JS**](#ii-markdown-vs-htmlcssjs)
 
-[**III. Sample HTML Pages**](#iii-sample-html-pages)
+[**III. HTML "Throw you in the deep end"!**]()
 
-[**IV. Posting an HTML page to GitHub**](#iv-posting-an-html-page-to-github)
+[**IV. Sample HTML Pages**](#iv-sample-html-pages)
 
-[**V. Homework**](#v-homework)
+[**V. Posting an HTML page to GitHub**](#v-posting-an-html-page-to-github)
+
+[**VI. Homework**](#vi-homework)
 
 ---
 
@@ -53,9 +55,10 @@
 
 ---
 
-## III. HTML "Throw in the deep end"
+## III. HTML "Throw you in the deep end"!
 
 - See Slides in myCourses content section
+- We'll quickly review the most impoort concepts!
 
 ---
 
