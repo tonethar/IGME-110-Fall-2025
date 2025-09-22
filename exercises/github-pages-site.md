@@ -133,7 +133,7 @@
   - here the styling directives are located in the `<style>` tag
   - *CSS selectors* tell the browser which HTML element to apply the style rules to (e.g. `body`, `h1`, `h2` are all CSS "type" selectors)
 - ***YOU DO:***
-  - change the background color of the page to one of the CSS keyword colors listed here - https://www.w3schools.com/cssref/css_colors.php - and be sure to use the keyword in your CSS, not the hexadecimal value
+  - change the background color of the page to one of the CSS keyword colors listed here --> https://www.w3schools.com/cssref/css_colors.php --> and be sure to use the keyword in your CSS, not the hexadecimal value
   - using CSS, change the color of all text located inside of `<p></p>` tags to one of the CSS keyword colors listed above
   - wrap the `<h1></h1>` tag inside of a `<header></header>` tag and then style the header in some way (background-color, spacing etc)
 
