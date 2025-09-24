@@ -58,7 +58,7 @@
 ## III. HTML "Throw you in the deep end"!
 
 - See Slides in myCourses content section
-- We'll quickly review the most impoort concepts!
+- We'll quickly review the most important concepts!
 
 ---
 
