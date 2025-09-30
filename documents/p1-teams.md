@@ -8,7 +8,7 @@
 
 [III. Section 06 (TR 5:00PM-6:15PM)](#iii-section-06-tr-500pm-615pm)
 
-[III. Section 09 (TR 3:30PM-4:45PM)](#iv-section-09-tr-330pm-445pm)
+[IV. Section 09 (TR 3:30PM-4:45PM)](#iv-section-09-tr-330pm-445pm)
 
 ---
 
