@@ -3,6 +3,18 @@
 ## Overview
 You need to begin your infographic project with a plan for how to proceed. You'll select one app proposal from Project 1 to base your infographic on, then create a comprehensive plan for your design approach.
 
+
+## Prerequisites
+- You should have already completed ALL of the following:
+  - #1 --> [Week 6 Study Guide: Visual Design](https://docs.google.com/document/d/1wA7yfU2o4mPVfP88kHgBjJwjDIjfqMgIc54fLxeIOE0/edit?usp=sharing)
+    - The Creative Brief - Research, ideation, the Mood board, production
+    - Type & Typography - Font v. Type, Key Typographic terms, basic type classifications, type anatomy
+    - Layout & Composition - positive space, negative space, grids
+  - #2 --> [Week 7 Study Guide: Visual Communication](https://docs.google.com/document/d/1yZJ_X0Gcly28FiJ-OHMNUh9EeAgkAbkZuoKdoskXO4M/copy)
+  - all about Infographics and how to make them!
+- #3 --> [Visual Design: Typography Core Concepts](https://docs.google.com/document/d/1pCe1UT-s44cUaa9AJ3OFoHKkBphtrYAz1CXQoDRPYOg/)
+- #4 --> [Visual Design: Mood Board](https://docs.google.com/document/d/1__vvXFySYHWGtQBvBTT5-P6eJRfLBS9vpCaBKWrx0e8/edit?usp=sharing)
+
 ## Available Proposals
 **Browse all app proposals here:**  
 → [App Proposal Finals (PDFs) - sections 02/08](https://github.com/jptweb/IGME-110-Fall-2025/tree/main/documents/app-proposal-finals)
