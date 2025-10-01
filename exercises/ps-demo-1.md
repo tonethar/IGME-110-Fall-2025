@@ -13,7 +13,7 @@
   - look for the **Zoom Tool** (Magnifying Glass) on the left toolbar
   - look for the **Fit Screen** button
   - "Z" key is a shortcut to the Zoom tool
-- "T" key for the **Text* tool, or click the **T** icon in toolbar
+- "T" key for the **Text** tool, or click the **T** icon in toolbar
   - set text font, color, alignment and other characteristics in menus at top of document
   - check the **Layers** over on the right, any text we make is created on a new layer, which we can rearrange or hide
 - The "Move" tool ("M" key) can be used to move text (or images) around
