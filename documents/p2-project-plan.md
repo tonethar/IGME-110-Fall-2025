@@ -11,9 +11,9 @@ You need to begin your infographic project with a plan for how to proceed. You'l
     - Type & Typography - Font v. Type, Key Typographic terms, basic type classifications, type anatomy
     - Layout & Composition - positive space, negative space, grids
   - #2 --> [Week 7 Study Guide: Visual Communication](https://docs.google.com/document/d/1yZJ_X0Gcly28FiJ-OHMNUh9EeAgkAbkZuoKdoskXO4M/copy)
-  - all about Infographics and how to make them!
-- #3 --> [Visual Design: Typography Core Concepts](https://docs.google.com/document/d/1pCe1UT-s44cUaa9AJ3OFoHKkBphtrYAz1CXQoDRPYOg/)
-- #4 --> [Visual Design: Mood Board](https://docs.google.com/document/d/1__vvXFySYHWGtQBvBTT5-P6eJRfLBS9vpCaBKWrx0e8/edit?usp=sharing)
+    - all about Infographics and how to make them!
+  - #3 --> [Visual Design: Typography Core Concepts](https://docs.google.com/document/d/1pCe1UT-s44cUaa9AJ3OFoHKkBphtrYAz1CXQoDRPYOg/)
+  - #4 --> [Visual Design: Mood Board](https://docs.google.com/document/d/1__vvXFySYHWGtQBvBTT5-P6eJRfLBS9vpCaBKWrx0e8/edit?usp=sharing)
 
 ## Available Proposals
 **Browse all app proposals here:**  
