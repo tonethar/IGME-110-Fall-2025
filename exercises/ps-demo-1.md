@@ -6,8 +6,8 @@
   - 8"x10" 300PPI ("pixels per inch") is a good size for print - it works out to 2400x3000 pixels
   - set the size and background color when you create the document (over on right of dialog box)
   - maybe 1200 x 1500 pixels is good enough for the screen? Let's change it
-  - you can resize the document at any time under the **Image > Canvas Size...** menu
-  - change the background color at any time - https://www.wikihow.com/Change-the-Background-Color-in-Photoshop
+  - BTW - you can resize the document at any time under the **Image > Canvas Size...** menu
+  - BTW - you can change the background color at any time - https://www.wikihow.com/Change-the-Background-Color-in-Photoshop
 - Zooming in and out is helpful:
   - look under the **View** menu
   - look for the **Zoom Tool** (Magnifying Glass) on the left toolbar
