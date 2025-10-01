@@ -6,6 +6,7 @@ You need to begin your infographic project with a plan for how to proceed. You'l
 ## Available Proposals
 **Browse all app proposals here:**  
 → [App Proposal Finals (PDFs) - sections 02/08](https://github.com/jptweb/IGME-110-Fall-2025/tree/main/documents/app-proposal-finals)
+
 → [App Proposal Finals (PDFs) - sections 04/05/06/09](_app-proposal-finals/)
 
 *Tip: Use the sidebar to quickly jump between proposals to review them efficiently*
