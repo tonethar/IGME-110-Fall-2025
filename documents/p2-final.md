@@ -8,13 +8,13 @@
   - the ***Title*** is clear and relevant
   - the ***Typography*** is legible as well as appropriately expressive in the context of the audience and goals
   - the ***Color Choices*** work well together, and are appropriate to the audience and goals
-  - the ***Images*** are consistent across infographic, and appropriate to audience and goals
+  - the ***Images*** are consistent across the infographic, and appropriate to the audience and goals
  
 ---
 
 ## II. Documentation Requirements
 
-- Update your the documentation you submitted for the [P2 draft](p2-mockup-draft.md#iii-submission-to-mycourses) - meaning design decisions and ALL sources
+- Update your the documentation you submitted for the [P2 draft](p2-mockup-draft.md#iii-submission-to-mycourses) - meaning the design decisions and ALL sources
 
 ---
 
@@ -22,4 +22,4 @@
 
 1) A PDF of your Infographic that meets the requirements of Section I. above
 
-2) A Word doc with your design decisions and ALL sources as spelled in Section II. above
+2) A Word doc with your design decisions and ALL sources as spelled out in Section II. above
