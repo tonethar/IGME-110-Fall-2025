@@ -27,7 +27,8 @@
 
 ## II. Documentation Requirements
 
-- You'll be critiquing each other's designs in class. Be prepared to explain why you chose your design approach. Put your answers to the following 5 questions into a Word DOC file:
+- You'll be critiquing each other's designs in class, so be prepared to explain why you chose your design approach!
+- Put your answers to the following 5 questions into a Word DOC file:
   - Who is the audience for this?
   - What do you want it to accomplish?
   - What type of infographic did you use, and why?
