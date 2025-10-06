@@ -46,7 +46,7 @@
 - ***This Word doc will also contain a section where you cite your sources:***
   - first, which specific tool are you using to create your infographic? Canva, Photoshop, Illustrator, ...
   - second, link to your chosen typefaces
-  - third, cite each of your data sources (including the proposal you chose), and image sources, as you did for your Project 1 sources, see:
+  - third, cite each of your ***data sources*** (including the proposal you chose), and ***image sources***, as you did for your Project 1 sources, see:
     - [**ZoteroBib**](https://zbib.org/) - Quick citation generator
     - [**RIT Library Citation Guide**](https://infoguides.rit.edu/citation)
   - fourth, cite images created with Gen AI:
