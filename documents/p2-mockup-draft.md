@@ -21,7 +21,7 @@
     - The images should be similar in their design, and easy to recognize when scanning the infographic. Photographs are generally a poor choice here - you want clear, clean graphics.
     - Consider using sites like the Noun Project or Font Awesome. Some of the tools we've suggested (like Canva and Adobe Express) also have images and icons available.&nbsp;
 
-4) A color scheme, typefaces, and images that are cohesive and appropriate. These can come from your original mood board plan--or, if you've decided to go in a different direction, colors and images that are still part of a specific design approach/theme.
+4) A color scheme, typefaces, and images that are cohesive and appropriate. These can come from your original mood board plan - or, if you've decided to go in a different direction, colors and images that are still part of a specific design approach/theme.
 
 ---
 
@@ -40,8 +40,10 @@
 - A PDF of your Infographic that meets the requirements of Section I. above
 - A Word doc with your design decisions spelled out as detailed in Section II. above
 - This Word doc will also contain a section where you cite your sources:
-  - first, what tool are you using to create your 
-  -  links to your image sources and links to 
+  - first, which specific tool are you using to create your infographic? Canva, Photoshop, Illustrator, ...
+  - second, link to your chosen typefaces
+  - third, link to your image sources and links to
+  - fourth, cite your Gen AI use
 
 
 - To help you answer these questions, put the answers to ALL 5 of them in a Word doc file
