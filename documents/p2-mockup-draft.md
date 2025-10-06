@@ -36,16 +36,19 @@
 
  ---
  
-## III. Submission
-- A PDF of your Infographic that meets the requirements of Section I. above
-- A Word doc with your design decisions spelled out as detailed in Section II. above
-- This Word doc will also contain a section where you cite your sources:
+## III. Submission to myCourses
+- 1) A PDF of your Infographic that meets the requirements of Section I. above
+- 2) A Word doc with your design decisions spelled out as detailed in Section II. above
+- ***This Word doc will also contain a section where you cite your sources:***
   - first, which specific tool are you using to create your infographic? Canva, Photoshop, Illustrator, ...
   - second, link to your chosen typefaces
-  - third, link to your image sources and links to
-  - fourth, cite images created with Gen AI - see the citation guidelines here - https://style.mla.org/citing-generative-ai-updated-revised/
+  - third, cite each of your image sources, as you did for your Project 1 sources, see:
+    - [**ZoteroBib**](https://zbib.org/) - Quick citation generator
+    - [**RIT Library Citation Guide**](https://infoguides.rit.edu/citation)
+  - fourth, cite images created with Gen AI:
+    - see the citation guidelines here - https://style.mla.org/citing-generative-ai-updated-revised/
     - note: you DO NOT need to provide your prompt for any images you create for this project with Gen AI
-  - fifth, any other Gen AI use MUST be documented as above, but must include all prompts
+  - fifth, any other Gen AI use MUST be documented as above, but MUST include all prompts
 
 
 
