@@ -8,7 +8,7 @@
 ## I. Infographic Requirements
 - Your infographic needs to include the following elements:
 
-1) A title - one that is clearly identifiable and legible, and that make it clear what the infographic is about.
+1) A title - one that is clearly identifiable and legible, and that makes it clear what the infographic is about.
 
     - So, just using the title of the product is not enough ...
     - What aspect of the product are you talking about? Features? How it compares to others? A timeline of how that type of product has evolved? The process of using it?
@@ -43,8 +43,9 @@
   - first, which specific tool are you using to create your infographic? Canva, Photoshop, Illustrator, ...
   - second, link to your chosen typefaces
   - third, link to your image sources and links to
-  - fourth, cite your Gen AI use
+  - fourth, cite images created with Gen AI - see the citation guidelines here - https://style.mla.org/citing-generative-ai-updated-revised/
+    - note: you DO NOT need to provide your prompt for any images you create for this project with Gen AI
+  - fifth, any other Gen AI use MUST be documented as above, but must include all prompts
 
 
-- To help you answer these questions, put the answers to ALL 5 of them in a Word doc file
-(You do not have to answer these questions in writing for this assignment, but you will have to answer them for the final submission.)
+
