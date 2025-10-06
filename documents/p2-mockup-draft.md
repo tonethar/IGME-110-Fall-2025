@@ -19,7 +19,7 @@
 
 3) And speaking of images, ***each element should have an image*** that clearly illustrates its role in the overall infographic
     - The images should be similar in their design, and easy to recognize when scanning the infographic. Photographs are generally a poor choice here - you want clear, clean graphics
-    - Consider using sites like the Noun Project or Font Awesome. Some of the tools we've suggested (like Canva and Adobe Express) also have images and icons available
+    - Consider using sites like the [Noun Project](https://thenounproject.com/) or [Font Awesome](https://fontawesome.com). Some of the tools we've suggested (like Canva and Adobe Express) also have images and icons available
 
 4) A ***color scheme, typefaces, and images that are cohesive and appropriate***. These can come from your original mood board plan - or, if you've decided to go in a different direction, colors and images that are still part of a specific design approach/theme
 
