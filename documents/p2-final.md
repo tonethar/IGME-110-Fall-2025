@@ -9,12 +9,17 @@
   - the ***Typography*** is legible as well as appropriately expressive in the context of the audience and goals
   - the ***Color Choices*** work well together, and are appropriate to the audience and goals
   - the ***Images*** are consistent across the infographic, and appropriate to the audience and goals
+- For each of your 5 elements, be sure that:
+  - the ***Content*** is relevant to the infographic
+  - the ***Content*** and ***Title*** are understandable and legible
+  - the ***Image*** is relevant to the content
+  - the ***Image*** easy to recognize at a glance
  
 ---
 
 ## II. Documentation Requirements
 
-- Update your the documentation you submitted for the [P2 draft](p2-mockup-draft.md#iii-submission-to-mycourses) - meaning the design decisions and ALL sources
+- Update your the documentation you submitted for the [P2 draft](p2-mockup-draft.md#iii-submission-to-mycourses) - meaning your design decisions and ALL sources
 
 ---
 
