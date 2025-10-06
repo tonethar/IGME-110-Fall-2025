@@ -20,6 +20,9 @@
 ## II. Documentation Requirements
 
 - Update your the documentation you submitted for the [P2 draft](p2-mockup-draft.md#iii-submission-to-mycourses) - meaning your design decisions and ALL sources
+- Be sure to clearly state the audience and goals of the infographic, and to explain your design decisions
+- Explain how feedback you received influenced your design
+- You will be also graded on your writing quality (grammar, spelling, syntax)
 
 ---
 
