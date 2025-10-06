@@ -1,4 +1,4 @@
-# Project 2: Infographic Project Plan
+# Project 2: Infographic - Project Plan
 
 ## Overview
 You need to begin your infographic project with a plan for how to proceed. You'll select one app proposal from Project 1 to base your infographic on, then create a comprehensive plan for your design approach.
