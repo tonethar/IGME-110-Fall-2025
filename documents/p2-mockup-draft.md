@@ -37,8 +37,11 @@
  ---
  
 ## III. Submission to myCourses
-- 1) A PDF of your Infographic that meets the requirements of Section I. above
-- 2) A Word doc with your design decisions spelled out as detailed in Section II. above
+
+1) A PDF of your Infographic that meets the requirements of Section I. above
+
+2) A Word doc with your design decisions spelled out as detailed in Section II. above
+
 - ***This Word doc will also contain a section where you cite your sources:***
   - first, which specific tool are you using to create your infographic? Canva, Photoshop, Illustrator, ...
   - second, link to your chosen typefaces
