@@ -22,4 +22,4 @@
 
 1) A PDF of your Infographic that meets the requirements of Section I. above
 
-2) A Word doc with your design decisions spelled out as detailed in Section II. above
+2) A Word doc with your design decisions and ALL sources as spelled in Section II. above
