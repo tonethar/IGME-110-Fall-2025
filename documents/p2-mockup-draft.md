@@ -46,7 +46,7 @@
 - ***This Word doc will also contain a section where you cite your sources:***
   - first, which specific tool are you using to create your infographic? Canva, Photoshop, Illustrator, ...
   - second, link to your chosen typefaces
-    - if it's (for example) a font that's built in Photoshop or Canva, look for the font on https://fonts.google.com or https://fonts.adobe.com or similar, and then put the font's link into [**ZoteroBib**](https://zbib.org/) to get a formatted citation
+    - if it's (for example) a font that's built-in to the text tools of Photoshop or Canva, go ahead and search for the font on https://fonts.google.com or https://fonts.adobe.com or similar, and then put the font's link into [**ZoteroBib**](https://zbib.org/) to get a formatted citation
   - third, cite each of your ***data sources*** (including the proposal you chose, the link to the PDF is fine), and ***image sources***, as you did for your Project 1 sources, see:
     - [**ZoteroBib**](https://zbib.org/) - Quick citation generator
     - [**RIT Library Citation Guide**](https://infoguides.rit.edu/citation)
