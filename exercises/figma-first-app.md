@@ -47,7 +47,7 @@ Build an original prototype from scratch that includes **all** of these elements
 
 ---
 
-## Submission Instructions
+## III. Submission Instructions
 
 Submit to the myCourses dropbox:
 
