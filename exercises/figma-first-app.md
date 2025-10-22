@@ -4,7 +4,7 @@
 - We have already done some or all of this part in-class together, if you missed it, here are the instructions:
   - **Teaching Guide:** https://github.com/jptweb/IGME-110-Fall-2025/blob/main/documents/teaching-guide-figma.md
   - **Video Tutorial:** [YouTube link - mirrors the in-class demonstration](https://www.youtube.com/watch?v=v1UKB-0EUhQ)
-- Complete the basic prototype following the guide/video above before moving on to the enhancements below
+- Complete the basic prototype following the guide/video above before moving on to the enhancements below!
 
 ---
 
