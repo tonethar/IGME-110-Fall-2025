@@ -1,4 +1,8 @@
+# Project 3 - Interactive Digital Prototype - *Putting the team together*
+
 - For the next few weeks, you will plan and develop an interactive digital prototype of an application related to one of the infographics from any of our IGME-110 sections
+
+---
 
 ## I. Which projects are available to choose from?
 
