@@ -50,11 +50,11 @@
 - Allowable team size is 2 to 4 (*three* is probably ideal)  
 - We're going to give you a chance to choose your own teams - there are 2 ways to approach this:
 
-1) Decide which infographic you want to implement as a working prototype, and then look others that are interested 
+***1) Decide which infographic you want to implement as a working prototype, and then look others that are interested***
 
 OR
 
-2) Get your team together, and then as a group pick an infographic to implement
+***2) Get your team together, and then as a group pick an infographic to implement***
 
 - In either case, head to your section specific Slack channel in our [IGME-110 Slack workspace](https://www.rit.edu/its/rit-enterprise-slack) ...
 - ... you will see the current team membership, and the names of those still looking for a team ...
