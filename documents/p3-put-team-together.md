@@ -4,7 +4,7 @@
 
 ---
 
-## I. Which projects are available to choose from?
+## I. Which product proposals are available to choose from?
 
 - AcadeMeet
 - Anime Plushies
@@ -38,9 +38,9 @@
 
 ---
 
-## II. *Where** are the Infographics?
+## II. *Where* are the Infographics?
 
-- Infographics for the above projects are here --> [Infographics (sections 04/05/06/09)](./_infographic-finals/)
+- The infographics for the above product proposals are here --> [Infographics (sections 04/05/06/09)](./_infographic-finals/)
 - The original project proposals are here --> [sections 02/08](https://github.com/jptweb/IGME-110-Fall-2025/tree/main/documents/app-proposal-finals) and here --> [sections 04/05/06/09](./_app-proposal-finals/)
 
 ---
