@@ -69,4 +69,4 @@ OR
 - ***Can we have cross-section teams?***
   - no, students need to be from the same section
 - ***Are multiple groups allowed to implement the same product proposal/infographic?***
-  - yes, any number of groups can implement the same infographic
+  - yes, any number of groups can implement the same proposal/infographic
