@@ -62,6 +62,7 @@ OR
 - ... we need to know this so we can keep the membership list up to date ...
 - ... anyone who does not have a team at the beginning of our week 10B meeting will be assigned a team at that time
 
+---
 
 ## IV. FAQ
 
