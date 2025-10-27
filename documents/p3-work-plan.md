@@ -49,7 +49,7 @@
 ### Milestones
 - Consider the following as you break the project into phases:
   - ***Research and Planning***: Finalizing your concept and understanding the infographic.
-  - ***Design and Development***: Creating initial designs and building the prototype.
+  - ***Design and Development***: Creating initial designs (both LoFi and HiFi) and building the prototype.
   - ***Testing and Feedback***: Creating the feedback form, testing your prototype and incorporating feedback from the in-class critique.
   - ***Final Submission and Presentation***: Refining the final prototype and preparing the presentation.
 
