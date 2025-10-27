@@ -1,4 +1,4 @@
-# Project 3 - Interactive Digital Prototype: Work Plan & Personas (DRAFT)
+# Project 3 - Interactive Digital Prototype: Work Plan, Feature & Personas (DRAFT)
 
 - For this deliverable, your group will create a detailed work plan that outlines the steps you will take to develop and pitch your digital prototype.
 
