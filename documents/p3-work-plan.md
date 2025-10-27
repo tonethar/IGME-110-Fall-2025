@@ -2,6 +2,8 @@
 
 - For this deliverable, your group will create a detailed work plan that outlines the steps you will take to develop and pitch your digital prototype.
 
+---
+
 ## I. Requirements
 - This plan will serve as a roadmap for your project and must include project goals, roles, responsibilities, tasks, timelines. 
 - Although each group member will guide the team in a specific role(s) as outlined below, everyone is expected to contribute to all parts of the project.
