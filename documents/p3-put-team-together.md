@@ -50,7 +50,7 @@
 - Allowable team size is 2 to 4 (*three* is probably ideal)  
 - We're going to give you a chance to choose your own teams - there are 2 ways to approach this:
 
-***1) Decide which infographic you want to implement as a working prototype, and then look others that are interested***
+***1) Decide which infographic you want to implement as a working prototype, and then look for others that are interested***
 
 OR
 
