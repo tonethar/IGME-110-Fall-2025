@@ -46,7 +46,7 @@
   - 12B - In-class work time on Interactive Prototype
   - ***13A - Interactive Prototype: Final Presentation*** - due 13A (11/17 or 11/18)
  
-### Milestones
+### Milestones:
 - Consider the following as you break the project into phases:
   - ***Research and Planning***: Finalizing your concept and understanding the infographic.
   - ***Design and Development***: Creating initial designs (both LoFi and HiFi) and building the prototype.
