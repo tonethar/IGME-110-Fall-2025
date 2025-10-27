@@ -38,7 +38,7 @@
 
 ## III. IMPORTANT --> Timeline and Task Breakdown
 
-### Deadlines
+### Deadlines:
 - Due dates for project deliverables
   - ***11A - Interactive Prototype: Project Plan*** (this deliverable) - due 11A (11/3 or 11/4)
   - ***11B - Interactive Prototype: LoFi Testing*** - need mockups of at least 3 screens for testing - and user flow diagrams for at least 3 use cases -  due 11B (11/5 or 11/6)
