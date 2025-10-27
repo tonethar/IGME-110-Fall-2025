@@ -10,13 +10,13 @@
 - Your work plan must include the following components:
 
 ### 1) Project Goal and Infographic Analysis
-- A) Begin by clearly defining your project goal based on the infographic your group selected. Explain why you chose that particular infographic, analyze it and explain how it serves as the foundation for your project.
-- B) Identify the core experience that your prototype will address.
-- C) Come up with a draft list of 5 to 7 features of your experience (don't worry, you won't be required to implement all of these feratures!)
+- **A)** Begin by clearly defining your project goal based on the infographic your group selected. Explain why you chose that particular infographic, analyze it and explain how it serves as the foundation for your project.
+- **B)** Identify the core experience that your prototype will address.
+- **C)** Come up with a draft list of 5 to 7 features of your experience (don't worry, you won't be required to implement all of these feratures!)
 
 ### 2) Target Audience
-- A) Identify the primary target audience for your project. Consider the infographic’s original message and who would benefit most from the solution or information presented in your prototype. Describe how the needs and preferences of this audience will shape the design and functionality of your prototype.
-- B) Create personas (TODO)
+- **A)** Identify the primary target audience for your project. Consider the infographic’s original message and who would benefit most from the solution or information presented in your prototype. Describe how the needs and preferences of this audience will shape the design and functionality of your prototype.
+- **B)** Create personas (TODO)
 
 ### 3) Roles and Responsibilities
 - While all group members will participate in every stage of the project, each member will take on a guiding role to help keep the group organized and focused in specific areas:
@@ -26,7 +26,7 @@
 	- Prototype Developer: Leads the creation of the interactive prototype.
 	- Usability Tester: Guides user testing and feedback integration.
 	- Content Lead: Directs the development of any narrative, text, or messaging.
-- A) Be sure to include the name of each group member and their guiding role(s)
+- **A)** Be sure to include the name of each group member and their guiding role(s)
 
 ---
 
