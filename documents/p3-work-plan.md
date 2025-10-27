@@ -2,7 +2,7 @@
 ##  Work Plan, Features & Personas 
 
 - For this deliverable, your group will create a work plan that outlines the steps you will take to develop and pitch your digital prototype
-- You will also develop *personas* of who might use this app/experience, and a draft list of features these users will require
+- You will also develop *personas* of who might use this app/experience, and a draft list of features these users might require
 
 ---
 
