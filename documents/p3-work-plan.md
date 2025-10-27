@@ -22,12 +22,12 @@
 
 ### 3) Roles and Responsibilities
 - While all group members will participate in every stage of the project, each member will take on a guiding role to help keep the group organized and focused in specific areas:
-  - Project Manager: Guides organization, scheduling, and task management.
-	- Research Lead: Directs research and analysis of the infographic and supporting data.
-  - Design Lead: Oversees visual design and user experience.
-	- Prototype Developer: Leads the creation of the interactive prototype.
-	- Usability Tester: Guides user testing and feedback integration.
-	- Content Lead: Directs the development of any narrative, text, or messaging.
+  - ***Project Manager***: Guides organization, scheduling, and task management.
+  - ***Research Lead***: Directs research and analysis of the infographic and supporting data.
+  - ***Design Lead***: Oversees visual design and user experience.
+  - ***Prototype Developer***: Leads the creation of the interactive prototype.
+  - ***Usability Tester***: Guides user testing and feedback integration.
+  - ***Content Lead***: Directs the development of any narrative, text, or messaging.
 - **A)** Be sure to include the name of each group member and their guiding role(s)
 
 ---
