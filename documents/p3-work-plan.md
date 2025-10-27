@@ -12,7 +12,7 @@
 ### 1) Project Goal and Infographic Analysis
 - A) Begin by clearly defining your project goal based on the infographic your group selected. Explain why you chose that particular infographic, analyze it and explain how it serves as the foundation for your project.
 - B) Identify the core experience that your prototype will address.
-- C) Come up with a draft list of 5 to 7 features (don't worry, you won't be required to implement all of these feratures!)
+- C) Come up with a draft list of 5 to 7 features of your experience (don't worry, you won't be required to implement all of these feratures!)
 
 ### 2) Target Audience
 - A) Identify the primary target audience for your project. Consider the infographic’s original message and who would benefit most from the solution or information presented in your prototype. Describe how the needs and preferences of this audience will shape the design and functionality of your prototype.
@@ -31,7 +31,8 @@
 ---
 
 ## II. Submission
-- Submit a document (PDF or docx) outlining your group’s work plan. Be sure to include each of the above components (1A, 1B, 1C, 2A, 2B, 3A)
+- Submit a document (PDF or docx) outlining your group’s work plan
+- Be sure to include each of the above components (1A, 1B, 1C, 2A, 2B, 3A)
 
 ---
 
