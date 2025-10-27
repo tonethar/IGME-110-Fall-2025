@@ -14,16 +14,23 @@
 ### 1) Project Goal and Infographic Analysis
 - **A)** Begin by clearly defining your project goal based on the infographic your group selected. Explain why you chose that particular infographic, analyze it and explain how it serves as the foundation for your project.
 - **B)** Identify the core experience that your prototype will address.
-- **C)** Come up with a draft list of 5 to 7 features of your experience (don't worry, you won't be required to implement all of these feratures!)
+- **C)** Come up with a draft list of 5 to 7 features of your experience (don't worry, you won't be required to implement all of these features!)
 
 ### 2) Target Audience
 - **A)** Identify the primary target audience for your project. Consider the infographic’s original message and who would benefit most from the solution or information presented in your prototype. Describe how the needs and preferences of this audience will shape the design and functionality of your prototype.
-- **B)** Create personas (TODO)
+- **B)** Create a minimum of 3 user *personas*:
+  - deep dive --> https://www.nngroup.com/articles/personas-study-guide/
+  - lean 5-step process --> [gemini.google.com - I need to quickly create user personas for an app I am designing.](https://gemini.google.com/share/2cd8a0074acd)
+  - Persona #1 will be the primary *target audience* of the experience (see step #2 above)
+  - Persona #2 will be a *power user*
+  - Persona #3 will be a *casual user*
+  - for each persona, be sure to complete ***Step 3: Fill in the Essential Persona Template***
+  - for each persona, be sure to complete ***Step 4: Define Scenarios and Expectations***
 
 ### 3) Roles and Responsibilities
-- While all group members will participate in every stage of the project, each member will take on a guiding role to help keep the group organized and focused in specific areas:
+- While ALL group members should participate in EVERY stage of the project, each member will take on a guiding role to help keep the group organized and focused in specific areas:
   - ***Project Manager***: Guides organization, scheduling, and task management.
-  - ***Research Lead***: Directs research and analysis of the infographic and supporting data.
+  - ***Research Lead***: Directs research and analysis of the infographic and supporting data, as well as brainstorming of features and personas. Smaller groups might want to share this role equally.
   - ***Design Lead***: Oversees visual design and user experience.
   - ***Prototype Developer***: Leads the creation of the interactive prototype.
   - ***Usability Tester***: Guides user testing and feedback integration.
