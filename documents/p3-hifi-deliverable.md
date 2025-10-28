@@ -3,12 +3,15 @@
 
 ---
 
+## I. Overview
 - In class, your group will present the current draft of your digital prototype.
 - This draft should be interactive enough to allow others to test its core functionality and design elements.
 - The purpose of this draft is to gather meaningful feedback from your classmates, which will help guide improvements before submitting the final version.
 - In addition to the prototype draft, your group will create a feedback survey designed to collect information on the usability, design, and concept of your project. This survey will help focus the feedback you receive and ensure that it addresses the most important aspects of your prototype.
 
-## I. Assignment Requirements
+---
+
+## II. Assignment Requirements
 ### Prototype Draft
 - The prototype draft should be functional enough to demonstrate the core idea of your project. While it doesn’t need to be fully polished, it should reflect:
   - The concept you are developing based on your selected infographic.
@@ -25,6 +28,6 @@ This draft will be tested by your peers in class, so ensure it is accessible and
 
 ---
 
-## II. Submission
+## III. Submission
 - Submit both the prototype and the form to myCourses before the dropbox closes.
   - note: if the prototype is written in Figma or Google Slides, you will submit a working link that is public 
