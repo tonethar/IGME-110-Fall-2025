@@ -21,11 +21,11 @@
 - **B)** Create a minimum of 3 user *personas*:
   - deep dive --> https://www.nngroup.com/articles/personas-study-guide/
   - lean 5-step process --> [gemini.google.com - I need to quickly create user personas for an app I am designing.](https://gemini.google.com/share/2cd8a0074acd)
-  - Persona #1 will be the primary *target audience* of the experience (see step #2 above)
+  - Persona #1 will be the primary *target audience* of the experience (see step #2 in "lean 5-step process" above)
   - Persona #2 will be a *power user*
   - Persona #3 will be a *casual user*
-  - for each persona, be sure to complete ***Step 3: Fill in the Essential Persona Template***
-  - for each persona, be sure to complete ***Step 4: Define Scenarios and Expectations***
+  - for each persona, be sure to complete ***Step 3: Fill in the Essential Persona Template*** from "lean 5-step process" above
+  - for each persona, be sure to complete ***Step 4: Define Scenarios and Expectations*** from "lean 5-step process" above
 
 ### 3) Roles and Responsibilities
 - While ALL group members should participate in EVERY stage of the project, each member will take on a guiding role to help keep the group organized and focused in specific areas:
