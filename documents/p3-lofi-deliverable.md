@@ -4,15 +4,15 @@
 ---
 
 ## I. Overview
-- In class, your group will present the first draft of your Interactive Digital Prototype.
-- The purpose of this draft is to gather meaningful feedback from your classmates, which will help guide design improvements before creating a working prototype.
-- In addition to the prototype draft, your group will create a list of *use cases* designed to collect information on the usability, design, and concept of your project.
+- In class, your group will present a LoFi version of your Interactive Digital Prototype.
+- The purpose of this LoFi version is to gather meaningful feedback from your classmates, which will help guide design improvements before creating a working prototype.
+- Your group will also create a list of *use cases* designed to collect information on the usability, design, and concept of your project.
 - This survey will help focus the feedback you receive and ensure that it addresses the most important aspects of your prototype.
 
 ---
 
 ## II. Assignment Requirements
-- 1. LoFi Prototypes:
+- 1. LoFi Mockups:
 - The prototype draft should be functional enough to demonstrate the core idea of your project. While it doesn’t need to be fully polished, it should reflect:
   - The concept you are developing based on your selected infographic.
   - The core features that will help your audience interact with the project.
