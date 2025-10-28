@@ -1,5 +1,5 @@
 # Project 3 - Interactive Digital Prototype - deliverable #2 (DRAFT)
-## *Lo-Fi Version and in-class testing*
+## *Lo-Fi mockups and in-class testing*
 
 ---
 
@@ -12,7 +12,7 @@
 ---
 
 ## II. Assignment Requirements
-- 1. LoFi Mockups:
+- 1. Mockups (LoFi):
 - The prototype draft should be functional enough to demonstrate the core idea of your project. While it doesn’t need to be fully polished, it should reflect:
   - The concept you are developing based on your selected infographic.
   - The core features that will help your audience interact with the project.
