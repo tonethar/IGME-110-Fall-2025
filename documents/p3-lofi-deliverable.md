@@ -1,4 +1,4 @@
-# Project 3 - Interactive Digital Prototype - deliverable #2
+# Project 3 - Interactive Digital Prototype - deliverable #2 (DRAFT)
 ## Lo-Fi Version and in-class testing
 - In class, your group will present the first draft of your Interactive Digital Prototype.
 - The purpose of this draft is to gather meaningful feedback from your classmates, which will help guide design improvements before creating a working prototype.
