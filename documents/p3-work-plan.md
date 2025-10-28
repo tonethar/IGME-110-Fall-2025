@@ -20,7 +20,7 @@
 - **A)** Identify the primary target audience for your project. Consider the infographic’s original message and who would benefit most from the solution or information presented in your prototype. Describe how the needs and preferences of this audience will shape the design and functionality of your prototype.
 - **B)** Create a minimum of 3 user *personas*:
   - deep dive --> https://www.nngroup.com/articles/personas-study-guide/
-  - lean 5-step process --> [gemini.google.com - I need to quickly create user personas for an app I am designing.](https://gemini.google.com/share/2cd8a0074acd)
+  - "lean 5-step process" --> [gemini.google.com - I need to quickly create user personas for an app I am designing.](https://gemini.google.com/share/2cd8a0074acd)
   - Persona #1 will be the primary *target audience* of the experience (see step #2 in "lean 5-step process" above)
   - Persona #2 will be a *power user*
   - Persona #3 will be a *casual user*
