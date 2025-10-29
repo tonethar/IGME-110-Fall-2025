@@ -27,3 +27,9 @@
 ## III. Submission Requirements
 
 - Submit to myCourses before the dropbox closes.
+
+## IV. Screenshots
+
+### User Flow Diagram
+
+![screenshot](../_images/user-flow-diagram.png)
