@@ -4,8 +4,8 @@
 ---
 
 ## I. Overview
-- In class, your group will present a LoFi version of your Interactive Digital Prototype.
-- The purpose of this LoFi version is to gather meaningful feedback from your classmates, which will help guide concept and design improvements BEFORE creating a HiFi working prototype.
+- In class, your group will present a LoFi (wireframe) version of your Interactive Digital Prototype.
+- The purpose of this LoFi version is to gather meaningful feedback from your users (classmates), which will inform concept and design improvements BEFORE you create a HiFi working prototype.
 - Your group will also create a list of *use cases* designed to collect information on the usability, design, and concept of your project.
 
 ---
