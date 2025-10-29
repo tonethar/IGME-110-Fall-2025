@@ -73,4 +73,4 @@ OR
  
 ---
 
-[**Next: Deliv. #1 - Work Plan, Features & Personas -->**](p3-work-plan.md)
+[**Next --> Deliv. #1 - Work Plan, Features & Personas**](p3-work-plan.md)
