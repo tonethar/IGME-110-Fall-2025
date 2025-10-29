@@ -62,4 +62,9 @@
   - ***Testing and Feedback***: Creating the feedback form, testing your prototype and incorporating feedback from the in-class critique.
   - ***Final Submission and Presentation***: Refining the final prototype and preparing the presentation.
 
+---
+---
 
+| <-- Previous | Next -->
+| --- | --- | --- 
+|   [**Putting the team together**](p3-put-team-together.md)  |  Deliv. #2 - Lo-Fi mockups and in-class testing
