@@ -11,12 +11,12 @@
 ---
 
 ## II. Assignment Requirements
-- 1. A Sitemap - ***TODO***
+- 1. A minimum of 3 *User Flow Diagrams* that map out at least 3 distinct "journeys" that your users (the personas you created in delieverable #1) will have while using your app
 - 2. A *miniumum* of 3 screen mockups (LoFi):
   - the screen mockups should demonstrate the core idea of your project and should reflect:
     - the concept you are developing based on your selected infographic.
-    - the core features that will help your audience interact with the project.
-    - the initial design choices that will guide the final look and feel of the project.
+    - the core features that will help your audience interact with the project and have a successful "journey"
+    - the initial design choices that will guide the final look and feel of the project
   - the mockups can be developed on paper, or digitally using tools such as canvas or Photoshop
   - here's an example of what paper mockups could look like --> [Mobile Application Design : Paper Prototype Video (1:16)](https://www.youtube.com/watch?v=y20E3qBmHpg)
   - these mockups will be tested by your peers in class
