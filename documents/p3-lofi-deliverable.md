@@ -12,11 +12,13 @@
 
 ## II. Assignment Requirements
 - 1. A Sitemap - ***TODO***
-- 2. Three mockups (LoFi):
-  - the three screen mockups should demonstrate the core idea of your project and should reflect:
+- 2. A *miniumum* of 3 screen mockups (LoFi):
+  - the screen mockups should demonstrate the core idea of your project and should reflect:
     - the concept you are developing based on your selected infographic.
     - the core features that will help your audience interact with the project.
     - the initial design choices that will guide the final look and feel of the project.
+  - the mockups can be developed on paper, or digitally using tools such as canvas or Photoshop
+  - here's an example of what paper mockups could look like --> [Mobile Application Design : Paper Prototype Video (1:16)](https://www.youtube.com/watch?v=y20E3qBmHpg)
   - these mockups will be tested by your peers in class
 - 3. Use cases and testing  - ***TODO***
 
