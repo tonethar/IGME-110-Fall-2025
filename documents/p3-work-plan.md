@@ -66,4 +66,4 @@
 ---
 
 
-[**<-- Putting the team together**](p3-put-team-together.md)  |  Deliv. #2 - Lo-Fi mockups and in-class testing -->
+[**<-- Prev: Putting the team together**](p3-put-team-together.md)  |  Next: Deliv. #2 - Lo-Fi mockups and in-class testing -->
