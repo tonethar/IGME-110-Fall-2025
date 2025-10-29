@@ -32,4 +32,4 @@
 
 ### User Flow Diagram
 
-![screenshot](../_images/user-flow-diagram.png)
+![screenshot](./_images/user-flow-diagram.png)
