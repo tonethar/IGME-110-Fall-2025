@@ -3,6 +3,11 @@
 
 ---
 
+## Prerequisites
+- You should have defined the core functionality of your app, have at least 5 to 7 possible features in mind, and have defined at least 3 *user personas*
+
+---
+
 ## I. Overview
 - In class, your group will present a LoFi (wireframe) version of your Interactive Digital Prototype.
 - The purpose of this LoFi version is to gather meaningful feedback from your users (classmates), which will inform concept and design improvements BEFORE you create a HiFi working prototype.
