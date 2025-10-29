@@ -44,4 +44,4 @@
 
 ---
 
-[**<-- Prev: Deliv. #2 - Lo-Fi mockups and in-class testing**](p3-lofi-deliverable.md)  | 💥💥💥 | [**Next --> Deliv. #3 - Hi-Fi implementation and in-class testing**](p3-hifi-deliverable.md)
+[**<-- Prev: Deliv. #1 - Work Plan, Features & Personas**](p3-work-plan.md)  | 💥💥💥 | [**Next --> Deliv. #3 - Hi-Fi implementation and in-class testing**](p3-hifi-deliverable.md)
