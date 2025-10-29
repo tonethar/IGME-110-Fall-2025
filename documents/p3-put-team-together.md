@@ -70,3 +70,7 @@ OR
   - no, students need to be from the same section
 - ***Are multiple groups allowed to implement the same product proposal/infographic?***
   - yes, any number of groups can implement the same proposal/infographic
+ 
+---
+
+[**Next: Deliv. #1 - Work Plan, Features & Personas -->**](p3-work-plan.md)
