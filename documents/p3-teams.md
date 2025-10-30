@@ -66,8 +66,8 @@
 ### Team 3
 - Noah Brutcher
 - Jamison Eng
-
-### Team 4 
+ 
+### Team 4  - Wize Wizard
 - Noah Holzheimer
 - Andie Kiener
 - Quinn McCormick
