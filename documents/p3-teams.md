@@ -117,15 +117,48 @@
 ## IV. Section 09 (TR 3:30PM-4:45PM)
 
 ### Team 1
+- Alessia Bianchimano
+- Nick Bisordi
+- Amanda Duffy
+- Owen Katz
 
 ### Team 2 
+- Noah Bonafede
+- Ethan Eddy
+- Henry Watson
 
 ### Team 3
+- Laura Gutaman
+- Di'Anny Santana
 
 ### Team 4 
+- Emmanuel Olivares
+- Zachary Palumbo
+- Hudson Reeves
+- Trevor Ringhisen
 
 ### Team 5
+- Keira Kopp
+- Greg Murray
+- Jeremy Nivar
+- Jordan Weller
 
 ### Team 6
+- Anthony Cianfrini
+- Fiona Chan
+- Mitzi Chen
 
 ### Team 7
+- Adam Shaw
+- Adon Smith
+- Brian Teruya
+
+### Team 8
+- Luna Berl
+- Firdavs Muqimtoshov
+- Takeshi Tatsumi
+- Maryn Yurack
+  
+### Team 9
+- Sebastian Greco
+- Emmett Sier
