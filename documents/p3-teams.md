@@ -73,7 +73,7 @@
 - Quinn McCormick
 - Ian Oppermann
 
-### Team 5
+### Team 5 - EXP Quest
 - Charisma Allen
 - Luther Barreiro Roxo
 - Tanai Beeram
