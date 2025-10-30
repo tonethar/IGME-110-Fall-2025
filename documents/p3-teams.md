@@ -58,7 +58,7 @@
 - Luke Edelmann
 - Trevin Fruehauf
 
-### Team 2 
+### Team 2 - Campus Compass
 - Connor Peck
 - Lyric Preston
 - Junghun Shin
