@@ -114,7 +114,7 @@
 - Autumn Seidlitz
 - Laurin Zanon
 
-### Team 4 
+### Team 4 - DormBot
 - Zoey Lapidus
 - Meadow McKeegan
 - Cam Murphy
