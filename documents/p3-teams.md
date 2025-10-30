@@ -85,7 +85,7 @@
 - Andrew Viera
 - Koen Westburg
 
-### Team 7
+### Team 7 - Wize Wizard
 - Luan Dunlap
 - Maddy Lohr
 - Zarif Wahid
