@@ -16,7 +16,7 @@
 ---
 
 ## II. Assignment Requirements
-- 1. A minimum of 3 *User Flow Diagrams* that map out at least 3 distinct "journeys" that your users (the personas you created in deliverable #1) will have while using your app
+- 1. A minimum of 5 *User Flow Diagrams* that map out at least 5 distinct "journeys" that your users (the personas you created in deliverable #1) will have while attempting to accomplish their goals on your app
 - 2. A *miniumum* of 3 screen mockups (LoFi):
   - the screen mockups should demonstrate the core idea of your project and should reflect:
     - the concept you are developing based on your selected infographic.
