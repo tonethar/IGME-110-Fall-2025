@@ -1,0 +1,131 @@
+# Project 1 Teams
+
+## Menu
+
+[I. Section 04 (MW 5:00PM-6:15PM)](#i-section-04-mw-500pm-615pm)
+
+[II. Section 05 (MW 6:30PM -7:45PM)](#ii-section-05-mw-630pm--745pm)
+
+[III. Section 06 (TR 5:00PM-6:15PM)](#iii-section-06-tr-500pm-615pm)
+
+[IV. Section 09 (TR 3:30PM-4:45PM)](#iv-section-09-tr-330pm-445pm)
+
+---
+
+## I. Section 04 (MW 5:00PM-6:15PM)
+
+### Team 1
+- Charlie Davis
+- Lily Denise
+- Thomas DeVore
+- Elijah Saylor
+
+### Team 2 
+- Samuel Cox
+- Draco Del Toro
+
+### Team 3
+- Aidan Lees
+- Palmer Martin
+- Theo Scudo
+
+### Team 4 
+- Jonathan Alava
+- Hunter Mowrey
+- Avery Schrader
+
+### Team 5
+- Zachary Fedorwich
+- Jason Herriott
+- Diana Kariaka
+- Adrian Washington
+
+### Team 6
+- Kyle Cress
+- Jack Glastetter
+- Cody Oleksak
+
+### Team 7
+- Ethan Elston
+- Dante Ferreira
+
+---
+
+## II. Section 05 (MW 6:30PM -7:45PM)
+
+### Team 1
+- Logan Babb
+- Luke Edelmann
+- Trevin Fruehauf
+
+### Team 2 
+- Connor Peck
+- Lyric Preston
+- Junghun Shin
+
+### Team 3
+- Noah Brutcher
+- Jamison Eng
+
+### Team 4 
+- Noah Holzheimer
+- Andie Kiener
+- Quinn McCormick
+- Ian Oppermann
+
+### Team 5
+- Charisma Allen
+- Luther Barreiro Roxo
+- Tanai Beeram
+- Michael Mirmigos
+
+### Team 6
+- Aaron Smiljanic
+- Alena Velasco
+- Andrew Viera
+- Koen Westburg
+
+### Team 7
+- Luan Dunlap
+- Maddy Lohr
+- Zarif Wahid
+
+### Team 8
+- Cole Joly
+- Jack Lindsey-noble
+
+---
+
+## III. Section 06 (TR 5:00PM-6:15PM)
+
+### Team 1
+
+### Team 2 
+
+### Team 3
+
+### Team 4 
+
+### Team 5
+
+### Team 6
+
+### Team 7
+
+---
+
+## IV. Section 09 (TR 3:30PM-4:45PM)
+
+### Team 1
+
+### Team 2 
+
+### Team 3
+
+### Team 4 
+
+### Team 5
+
+### Team 6
+
+### Team 7
