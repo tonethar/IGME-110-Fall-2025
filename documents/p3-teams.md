@@ -20,7 +20,7 @@
 - Thomas DeVore
 - Elijah Saylor
 
-### Team 2 
+### Team 2 - Grub Guru
 - Samuel Cox
 - Draco Del Toro
 
