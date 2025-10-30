@@ -126,10 +126,14 @@
 - Joaquin Parada
   
 ### Team 6
+- Kaitlyn Gray
+- Anushree Zimmerman
 
 ### Team 7
-
-### Team 8
+- Ricardo Charles
+- Isaac Knowlton
+- David Poore
+- Philip Thomas
 
 ---
 
