@@ -20,7 +20,7 @@
 - Thomas DeVore
 - Elijah Saylor
 
-### Team 2 - Grub Guru
+### Team 2 - *Grub Guru*
 - Samuel Cox
 - Draco Del Toro
 
@@ -58,7 +58,7 @@
 - Luke Edelmann
 - Trevin Fruehauf
 
-### Team 2 - Campus Compass
+### Team 2 - *Campus Compass*
 - Connor Peck
 - Lyric Preston
 - Junghun Shin
@@ -67,13 +67,13 @@
 - Noah Brutcher
 - Jamison Eng
  
-### Team 4  - Wize Wizard
+### Team 4  - *Wize Wizard*
 - Noah Holzheimer
 - Andie Kiener
 - Quinn McCormick
 - Ian Oppermann
 
-### Team 5 - EXP Quest
+### Team 5 - *EXP Quest*
 - Charisma Allen
 - Luther Barreiro Roxo
 - Tanai Beeram
@@ -85,7 +85,7 @@
 - Andrew Viera
 - Koen Westburg
 
-### Team 7 - Wize Wizard
+### Team 7 - *Wize Wizard*
 - Luan Dunlap
 - Maddy Lohr
 - Zarif Wahid
@@ -114,7 +114,7 @@
 - Autumn Seidlitz
 - Laurin Zanon
 
-### Team 4 - DormBot
+### Team 4 - *DormBot*
 - Zoey Lapidus
 - Meadow McKeegan
 - Cam Murphy
