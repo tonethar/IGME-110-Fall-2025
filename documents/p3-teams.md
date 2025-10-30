@@ -139,7 +139,7 @@
 
 ## IV. Section 09 (TR 3:30PM-4:45PM)
 
-### Team 1
+### Team 1 - *Fried Phish*
 - Alessia Bianchimano
 - Nick Bisordi
 - Amanda Duffy
@@ -166,12 +166,12 @@
 - Jeremy Nivar
 - Jordan Weller
 
-### Team 6
+### Team 6 - *Anime Plushies*
 - Anthony Cianfrini
 - Fiona Chan
 - Mitzi Chen
 
-### Team 7
+### Team 7 - *Forget Me Not*
 - Adam Shaw
 - Adon Smith
 - Brian Teruya
