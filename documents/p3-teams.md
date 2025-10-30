@@ -51,7 +51,7 @@
 
 ---
 
-## II. Section 05 (MW 6:30PM -7:45PM)
+## II. Section 05 (MW 6:30PM - 7:45PM)
 
 ### Team 1
 - Logan Babb
@@ -109,7 +109,7 @@
 - Nicora Wiseley
 - Onyx Wong
 
-### Team 3
+### Team 3 - *Session Zero*
 - Tommy Barone
 - Autumn Seidlitz
 - Laurin Zanon
