@@ -37,7 +37,7 @@
 
 ## IV. Screenshots
 
-### User Flow Diagram
+### User Flow Diagram (simplified)
 
 ![screenshot](./_images/user-flow-diagram.png)
 
