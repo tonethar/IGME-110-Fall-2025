@@ -99,18 +99,37 @@
 ## III. Section 06 (TR 5:00PM-6:15PM)
 
 ### Team 1
+- Abby Wiley
+- Joel Wallingford
+- Clyde Collins
+- Lush Lu
 
 ### Team 2 
+- Braeden Buckley
+- Nicora Wiseley
+- Onyx Wong
 
 ### Team 3
+- Tommy Barone
+- Autumn Seidlitz
+- Laurin Zanon
 
 ### Team 4 
+- Zoey Lapidus
+- Meadow McKeegan
+- Cam Murphy
+- Alex Sharpe
 
 ### Team 5
-
+- Ethan Carpenter
+- Kaiden Lakheeram
+- Joaquin Parada
+  
 ### Team 6
 
 ### Team 7
+
+### Team 8
 
 ---
 
