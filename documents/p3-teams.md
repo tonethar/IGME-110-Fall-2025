@@ -121,7 +121,7 @@
 - Cam Murphy
 - Alex Sharpe
 
-### Team 5
+### Team 5 - *Trinkt*
 - Ethan Carpenter
 - Kaiden Lakheeram
 - Joaquin Parada
