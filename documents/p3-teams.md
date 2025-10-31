@@ -172,7 +172,7 @@
 - Fiona Chan
 - Mitzi Chen
 
-### Team 7 - *Forget Me Not*
+### Team 7 - *Forget Me Not Tracking Stickers*
 - Adam Shaw
 - Adon Smith
 - Brian Teruya
