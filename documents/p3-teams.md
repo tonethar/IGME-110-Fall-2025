@@ -112,6 +112,7 @@
 ### Team 3 - *Session Zero*
 - Tommy Barone
 - Autumn Seidlitz
+- William Yi
 - Laurin Zanon
 
 ### Team 4 - *DormBot*
