@@ -62,7 +62,7 @@
   - "Task 2: Change the shock intensity of the TaserBed"
 - Modify the questions below depending on the app and its specific tasks
 
-### Task {Task Number 1, 2, 3, 4 and 5}: {Specific Task Name/Goal}
+### Task {Task Number}: {Specific Task Name/Goal}
 1. *How easy was it to complete this task?* (1 = Very Difficult, 5 = Very Easy)
 
 2. *Did you understand what to do at every step?* (Yes / No / Sometimes) *If no or sometimes, please briefly explain*:
