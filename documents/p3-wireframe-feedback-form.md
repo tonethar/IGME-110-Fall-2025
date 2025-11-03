@@ -66,5 +66,5 @@
 
 3. *Do you have any other suggestions or comments about the wireframe?*
 
-4. *"If you had a MAGIC WAND and could add one feature to this application that would make ..." (example: "adopting a pet easier for you", for a pet finding app), "what would it be?"*
+4. ***"If you had a MAGIC WAND and could add one feature to this application that would make ..." (example: "adopting a pet easier for you", for a pet finding app), "what would it be?"***
 
