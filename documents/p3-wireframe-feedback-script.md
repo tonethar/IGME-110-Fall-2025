@@ -1,4 +1,4 @@
-# P3 - Wireframe Feedback Form
+# P3 - Wireframe Feedback Script
 **Overview**
 - Today we are conducting *Qualitative Usability Testing*
 - *Qualitative* refers to the data type we are collecting (words, thoughts, and opinions, NOT numbers like error rates that are *Quantitative*)
@@ -7,7 +7,7 @@
   - which is when we take the feedback from the usability tests and formally document the discrepancies (gaps) between the user's needs and the prototype's current feature set.
 
 **Instructions:**
-- Paste the form below into a Word or Google Doc
+- Paste the script below into a Word or Google Doc
 - Make copies (digital or otherwise), one form per user
 - The "facilitator" will ask the questions and give directions to the user
 - The "computer" will physically change the screens as the user attempts to perform tasks
