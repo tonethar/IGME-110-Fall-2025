@@ -35,7 +35,7 @@
 ## III. Submission Requirements
 
 - Submit to myCourses before the dropbox closes:
-  - 9 *User Flow Diagrams* (these could be diagrammed, or just nicely formatted, easy-to-read text is fine)
+  - 9 *User Flow Diagrams* (these could be diagrammed, or easy-to-read text that is nicely formatted)
   - 5 or more LoFi wireframe screen mockups (if they are on paper, take pictures)
   - 5 or more unique scripts 
 
