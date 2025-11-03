@@ -17,19 +17,19 @@
 
 ## II. Assignment Requirements
 - 1. A minimum of **NINE *User Flow Diagrams*** that map out at least 9 distinct "journeys" that your users (the personas you created in deliverable #1) will have while attempting to accomplish their goals on your app. Each diagram needs:
-    - a **title** that explains the user action (ex. "Change shock intensity")
-    - an **entry point** (ex. "App Home Screen")
-    - a **series of steps** the user will need to take
-      - ex. "Find Settings Button" ➡️ "Navigate to Settings Screen" ➡️ "Change Intensity to Desired Level"
-    - an **end success state** (ex. "Confirm Change")
+      - a **title** that explains the user action (ex. "Change shock intensity")
+      - an **entry point** (ex. "App Home Screen")
+      - a **series of steps** the user will need to take
+        - ex. "Find Settings Button" ➡️ "Navigate to Settings Screen" ➡️ "Change Intensity to Desired Level"
+      - an **end success state** (ex. "Confirm Change")
 - 2. A *miniumum* of **FIVE screen mockups** (LoFi):
-  - the screen mockups should demonstrate the core idea of your project and should reflect:
-    - the concept you are developing based on your selected infographic.
-    - the core features that will help your audience interact with the project and have a successful "journey"
-    - the initial design choices that will guide the final look and feel of the project
-  - the mockups can be developed on paper, or digitally using tools such as canvas or Photoshop
-  - here's an example of what paper mockups could look like --> [Mobile Application Design : Paper Prototype Video (1:16)](https://www.youtube.com/watch?v=y20E3qBmHpg)
-  - these mockups will be tested by your peers in class
+    - the screen mockups should demonstrate the core idea of your project and should reflect:
+      - the concept you are developing based on your selected infographic.
+      - the core features that will help your audience interact with the project and have a successful "journey"
+      - the initial design choices that will guide the final look and feel of the project
+    - the mockups can be developed on paper, or digitally using tools such as canvas or Photoshop
+    - here's an example of what paper mockups could look like --> [Mobile Application Design : Paper Prototype Video (1:16)](https://www.youtube.com/watch?v=y20E3qBmHpg)
+    - these mockups will be tested by your peers in class
 - 3. User flow and testing:
   - Choose at least FIVE of the 9 user flows you created and 
   - write a unique script for each
