@@ -34,9 +34,9 @@
 ## III: Overall User Impression of App (Pre-Task)
 - Use this section to gauge the user's initial understanding of the app's purpose.
 
-1. Based on the home screen/landing page, what do you think this app is for?
+1. *Based on the home screen/landing page, what do you think this app is for?*
 
-2. On a scale of 1 to 5 (1 = Not at all clear, 5 = Extremely clear), how clear is the main purpose of the app?
+2. *On a scale of 1 to 5 (1 = Not at all clear, 5 = Extremely clear), how clear is the main purpose of the app?*
 
 ---
 
@@ -66,5 +66,5 @@
 
 3. *Do you have any other suggestions or comments about the wireframe?*
 
-4. ***"If you had a MAGIC WAND and could add one feature to this application that would make ..." (example: "adopting a pet easier for you", for a pet finding app), "what would it be?"***
+4. ***"If you had a MAGIC WAND and could add one feature to this application that would make ..." (example: "... adopting a pet easier for you," for a pet finding app), "what would it be?"***
 
