@@ -1,6 +1,6 @@
 # P3 - Wireframe Feedback Script
 **Overview**
-- on week 11B we are conducting *Qualitative Usability Testing*
+- On week 11B we are conducting *Qualitative Usability Testing*
 - *Qualitative* refers to the data type we are collecting (words, thoughts, and opinions, NOT numbers like error rates that are *Quantitative*)
 - Qualitative data is key to identifying why a feature is missing or needed
 - This will help with *Needs Discovery/Gap Analysis* 
