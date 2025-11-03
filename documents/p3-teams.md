@@ -80,7 +80,7 @@
 - Tanai Beeram
 - Michael Mirmigos
 
-### Team 6 - *???*
+### Team 6 - *Wize Wizard*
 - Aaron Smiljanic
 - Alena Velasco
 - Andrew Viera
