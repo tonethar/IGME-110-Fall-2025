@@ -1,4 +1,4 @@
-# Project 3 - Interactive Digital Prototype - deliverable #2 (DRAFT)
+# Project 3 - Interactive Digital Prototype - deliverable #2
 ## *Lo-Fi mockups and in-class testing*
 
 ---
