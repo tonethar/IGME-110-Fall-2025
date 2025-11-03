@@ -24,8 +24,8 @@
 ---
 
 ## II. User Info
-### First Name:
-### Age:
+- ### First Name:
+- ### Age:
 
 ---
 
@@ -36,5 +36,26 @@
 
 2. On a scale of 1 to 5 (1 = Not at all clear, 5 = Extremely clear), how clear is the main purpose of the app?
 
-3. 
+---
+
+## IV. Task-Specific Feedback
+- Repeat this section for every simple task the user was asked to perform, examples:
+  - "Task 1: Create a new user profile"
+  - "Task 2: Change the shock intensity of the TaserBed"
+- Modify the questions below depending on the app and its specific tasks
+
+### Task {Task Number}: {Specific Task Name/Goal}
+1. How easy was it to complete this task? (1 = Very Difficult, 5 = Very Easy)
+
+2. Did you understand what to do at every step? (Yes / No / Sometimes) If no or sometimes, please briefly explain:
+
+3. Were there any labels, icons, or words that were confusing or unclear? 
+
+4. Did you hesitate or get stuck at any point? If so, where and why? (Open Text Field - critical for identifying pain points in the flow)
+
+5. What did you expect to happen when you clicked/tapped on [Specific Element Name, e.g., the 'Submit' button on the last screen]?
+
+---
+
+
 
