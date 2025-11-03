@@ -1,7 +1,7 @@
 # P3 - Wireframe Feedback Form
 **Overview**
 - Today we are conducting *Qualitative Usability Testing*
-- *Qualitative* refers to the data type you are collecting (words, thoughts, and opinions, NOT numbers like error rates that are *Quantitative*)
+- *Qualitative* refers to the data type we are collecting (words, thoughts, and opinions, NOT numbers like error rates that are *Quantitative*)
 - Qualitative data is key to identifying why a feature is missing or needed
 - This will help with *Needs Discovery/Gap Analysis* 
   - which is when we take the feedback from the usability tests and formally document the discrepancies (gaps) between the user's needs and the prototype's current feature set.
