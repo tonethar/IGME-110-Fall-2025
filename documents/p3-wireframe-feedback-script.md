@@ -26,6 +26,11 @@
 
 ---
 
+# The "Script" template is below 
+## "script" means a series of questions to ask, and answers to record
+
+---
+
 ## I. Project Info
 - ### Project name:
 - ### Section number: 
