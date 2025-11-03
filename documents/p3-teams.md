@@ -14,7 +14,7 @@
 
 ## I. Section 04 (MW 5:00PM-6:15PM)
 
-### Team 1
+### Team 1 - *Corvid Casual*
 - Charlie Davis
 - Lily Denise
 - Thomas DeVore
@@ -24,28 +24,28 @@
 - Samuel Cox
 - Draco Del Toro
 
-### Team 3
+### Team 3 - *Task Town*
 - Aidan Lees
 - Palmer Martin
 - Theo Scudo
 
-### Team 4 
+### Team 4 - *Session Zero*
 - Jonathan Alava
 - Hunter Mowrey
 - Avery Schrader
 
-### Team 5
+### Team 5 - *EXPQuest*
 - Zachary Fedorwich
 - Jason Herriott
 - Diana Kariaka
 - Adrian Washington
 
-### Team 6
+### Team 6 - *Nobia Glasses*
 - Kyle Cress
 - Jack Glastetter
 - Cody Oleksak
 
-### Team 7
+### Team 7 - *Session Zero*
 - Ethan Elston
 - Dante Ferreira
 
