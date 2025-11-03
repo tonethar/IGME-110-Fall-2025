@@ -26,7 +26,7 @@
 
 ---
 
-# The "Script" template is below 
+# &darr;&darr;&darr; The "Script" template is below &darr;&darr;&darr;
 ## "script" means a series of questions to ask, and answers to record
 
 ---
