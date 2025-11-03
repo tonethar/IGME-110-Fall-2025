@@ -11,13 +11,18 @@
 - Make copies (digital or otherwise), one form per user
 - The "faciliatator" will ask the questions and give directions to the user
 - The "computer" will physically change the screens as the user attempts to perform tasks
-- The "scribe" will complete the questions on this form
-- Key Principles for Effective Wireframe Feedback:
+- The "scribe" will right down the answers to the questions on this form
+- ***When crafting high-level tasks (see Section IV. below), ensure they have:***
+  - A Persona/Role: Who is the user? (e.g., "You are a busy professional...")
+  - A Motivation/Context: Why are they doing this? (e.g., "...and you need to urgently replace a broken part.")
+  - A Clear Goal: What is the specific outcome? (e.g., "...Find the part and complete the purchase.")
+- ***Key Principles for Effective Wireframe Feedback:***
   - Focus on 'Why': Use open-ended questions (starting with What, Why, How) to get rich, qualitative data. Avoid simple Yes/No answers where possible.
   - Non-Leading: Avoid language that suggests an answer (e.g., instead of "Was the simple layout easy to use?" ask "How was your experience using the layout?").
   - Post-Task: The most valuable feedback is often collected immediately after a user attempts a task, while the experience is fresh in their mind.
 - Use the "Think Aloud" Protocol:
   - This is the most critical technique for discovery of missing features. Ask the user to verbalize every thought that comes to mind while they are interacting with the wireframe
+
 
 ---
 
