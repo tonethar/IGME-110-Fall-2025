@@ -17,11 +17,11 @@
 
 ## II. Assignment Requirements
 - 1. A minimum of **NINE *User Flow Diagrams*** that map out at least 9 distinct "journeys" that your users (the personas you created in deliverable #1) will have while attempting to accomplish their goals on your app. Each diagram needs:
-  - a **title** that explains the user action (ex. "Change shock intensity")
-  - an **entry point** (ex. "App Home Screen")
-  - a **series of steps** the user will need to take
-    - ex. "Find Settings Button" ➡️ "Navigate to Settings Screen" ➡️ "Change Intensity to Desired Level"
-  - an **end success state** (ex. "Confirm Change")
+    - a **title** that explains the user action (ex. "Change shock intensity")
+    - an **entry point** (ex. "App Home Screen")
+    - a **series of steps** the user will need to take
+      - ex. "Find Settings Button" ➡️ "Navigate to Settings Screen" ➡️ "Change Intensity to Desired Level"
+    - an **end success state** (ex. "Confirm Change")
 - 2. A *miniumum* of **FIVE screen mockups** (LoFi):
   - the screen mockups should demonstrate the core idea of your project and should reflect:
     - the concept you are developing based on your selected infographic.
