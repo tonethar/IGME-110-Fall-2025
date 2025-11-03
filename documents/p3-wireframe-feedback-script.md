@@ -74,7 +74,7 @@
 5. *What did you expect to happen when you clicked/tapped on* [Specific Element Name, ex the 'Submit' button on the last screen]?
 
 ```
-
+ 
 ```
 
 ### Task #2 : {Specific Task Name/Goal}
@@ -83,7 +83,7 @@
 2. etc ...
 
 ```
-
+ 
 ```
 
 ### Task #3 : {Specific Task Name/Goal}
@@ -92,7 +92,7 @@
 2. etc ...
 
 ```
-
+ 
 ```
 
 ### Task #4 : {Specific Task Name/Goal}
@@ -101,7 +101,7 @@
 2. etc ...
 
 ```
-
+ 
 ```
 
 ### Task #5 : {Specific Task Name/Goal}
