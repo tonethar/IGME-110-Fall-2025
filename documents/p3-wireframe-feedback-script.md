@@ -12,6 +12,7 @@
 - The "facilitator" will ask the questions and give directions to the user
 - The "computer" will physically change the screens as the user attempts to perform tasks
 - The "scribe" will write down the answers to the questions on this script
+- For some ideas of what tasks to test, see [How to write effective tasks for prototype testing](https://support.optimalworkshop.com/en/articles/9689728-how-to-write-effective-tasks-for-prototype-testing)
 - ***When crafting high-level tasks (see Section IV. below), ensure they have:***
   - A Persona/Role: Who is the user? (e.g., "You are a busy professional...")
   - A Motivation/Context: Why are they doing this? (e.g., "...and you need to urgently replace a broken part.")
