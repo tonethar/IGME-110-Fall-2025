@@ -32,7 +32,7 @@
     - these mockups will be tested by your peers in class
 - 3. User flow and testing:
   - Choose at least FIVE of the 9 user flows you created and 
-  - write a unique script (task) for each user flow
+  - write 5 unique **tasks** for each user flow
   - use the [provided testing template (script)](../documents/p3-wireframe-feedback-script.md)
 
 ---
@@ -42,7 +42,7 @@
 - Submit to myCourses before the dropbox closes:
   - 9 *User Flow Diagrams* (these could be diagrammed, or easy-to-read text that is nicely formatted)
   - 5 or more LoFi wireframe screen mockups (if they are on paper, take pictures)
-  - 5 or more unique scripts (tasks)
+  - 5 or more unique tasks
 
 ---
 
