@@ -32,7 +32,7 @@
     - these mockups will be tested by your peers in class
 - 3. User flow and testing:
   - Choose at least FIVE of the 9 user flows you created and 
-  - write a unique script (task) for each
+  - write a unique script (task) for each user flow
   - use the [provided testing template (script)](../documents/p3-wireframe-feedback-script.md)
 
 ---
