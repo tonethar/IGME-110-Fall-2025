@@ -53,7 +53,7 @@
 
 ## II. Section 05 (MW 6:30PM - 7:45PM)
 
-### Team 1
+### Team 1 - *ARG Pirate App*
 - Logan Babb
 - Luke Edelmann
 - Trevin Fruehauf
@@ -63,7 +63,7 @@
 - Lyric Preston
 - Junghun Shin
 
-### Team 3
+### Team 3 - *Grub Guru*
 - Noah Brutcher
 - Jamison Eng
  
@@ -79,7 +79,7 @@
 - Tanai Beeram
 - Michael Mirmigos
 
-### Team 6
+### Team 6 - *???*
 - Aaron Smiljanic
 - Alena Velasco
 - Andrew Viera
@@ -90,7 +90,7 @@
 - Maddy Lohr
 - Zarif Wahid
 
-### Team 8
+### Team 8 - *S.H.R.E.A.K.*
 - Cole Joly
 - Jack Lindsey-noble
 
