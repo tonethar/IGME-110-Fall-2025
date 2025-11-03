@@ -8,10 +8,10 @@
 
 **Instructions:**
 - Paste the script below into a Word or Google Doc
-- Make copies (digital or otherwise), one form per user
+- Make copies (digital or otherwise), one script per user
 - The "facilitator" will ask the questions and give directions to the user
 - The "computer" will physically change the screens as the user attempts to perform tasks
-- The "scribe" will write down the answers to the questions on this form
+- The "scribe" will write down the answers to the questions on this script
 - ***When crafting high-level tasks (see Section IV. below), ensure they have:***
   - A Persona/Role: Who is the user? (e.g., "You are a busy professional...")
   - A Motivation/Context: Why are they doing this? (e.g., "...and you need to urgently replace a broken part.")
