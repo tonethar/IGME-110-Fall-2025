@@ -10,6 +10,8 @@
   - Focus on 'Why': Use open-ended questions (starting with What, Why, How) to get rich, qualitative data. Avoid simple Yes/No answers where possible.
   - Non-Leading: Avoid language that suggests an answer (e.g., instead of "Was the simple layout easy to use?" ask "How was your experience using the layout?").
   - Post-Task: The most valuable feedback is often collected immediately after a user attempts a task, while the experience is fresh in their mind.
+- Use the "Think Aloud" Protocol:
+  - This is the most critical technique for discovery of missing features. Ask the user to verbalize every thought that comes to mind while they are interacting with the wireframe
 
 ---
 
@@ -64,5 +66,5 @@
 
 3. *Do you have any other suggestions or comments about the wireframe?*
 
-4. *If you had a MAGIC WAND and could add one feature to this application that would make adopting a pet easier for you, what would it be?*
+4. *"If you had a MAGIC WAND and could add one feature to this application that would make ..." (example: "adopting a pet easier for you", for a pet finding app), "what would it be?"*
 
