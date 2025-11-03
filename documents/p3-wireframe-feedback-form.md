@@ -1,4 +1,4 @@
-# P3 - Wireframe Feedback Feedback Form
+# P3 - Wireframe Feedback Form
 
 **Instructions:**
 - Paste the form below into a Word or Google Doc
