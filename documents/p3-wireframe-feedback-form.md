@@ -14,12 +14,12 @@
 ---
 
 ## I. Project Info
-### Project name:
-### Section number: 
-### Team number:
-### Facilitator Name:
-### Computer Name:
-### Scribe Name:
+- ### Project name:
+- ### Section number: 
+- ### Team number:
+- ### Facilitator Name:
+- ### Computer Name:
+- ### Scribe Name:
 
 ---
 
