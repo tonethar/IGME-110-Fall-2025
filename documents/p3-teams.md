@@ -48,6 +48,7 @@
 ### Team 7 - *Session Zero*
 - Ethan Elston
 - Dante Ferreira
+- Cora Tyner
 
 ---
 
