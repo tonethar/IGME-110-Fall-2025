@@ -184,6 +184,6 @@
 - Takeshi Tatsumi
 - Maryn Yurack
   
-### Team 9
+### Team 9 - *Anime Plushies*
 - Sebastian Greco
 - Emmett Sier
