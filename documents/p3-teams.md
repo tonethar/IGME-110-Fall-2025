@@ -131,7 +131,7 @@
 - Kaitlyn Gray
 - Anushree Zimmerman
 
-### Team 7
+### Team 7 - *Coz Planner*
 - Ricardo Charles
 - Isaac Knowlton
 - David Poore
