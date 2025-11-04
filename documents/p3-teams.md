@@ -129,7 +129,7 @@
 - Kaiden Lakheeram
 - Joaquin Parada
   
-### Team 6
+### Team 6 - *BetterRIT*
 - Kaitlyn Gray
 - Anushree Zimmerman
 
