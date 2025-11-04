@@ -105,7 +105,7 @@
 - Clyde Collins
 - Lush Lu
 
-### Team 2 
+### Team 2  - *Task Town*
 - Braeden Buckley
 - Nicora Wiseley
 - Onyx Wong
