@@ -1,3 +1,4 @@
+
 # Project 3 Teams
 
 ## Menu
@@ -153,7 +154,7 @@
 - Ethan Eddy
 - Henry Watson
 
-### Team 3
+### Team 3 - *Corvid Casual*
 - Laura Gutaman
 - Di'Anny Santana
 
