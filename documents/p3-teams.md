@@ -178,7 +178,7 @@
 - Adon Smith
 - Brian Teruya
 
-### Team 8
+### Team 8 - *EXPQuest*
 - Luna Berl
 - Firdavs Muqimtoshov
 - Takeshi Tatsumi
