@@ -156,7 +156,7 @@
 - Laura Gutaman
 - Di'Anny Santana
 
-### Team 4 
+### Team 4 - *Better RIT*
 - Emmanuel Olivares
 - Zachary Palumbo
 - Hudson Reeves
