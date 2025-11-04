@@ -99,11 +99,12 @@
 
 ## III. Section 06 (TR 5:00PM-6:15PM)
 
-### Team 1
-- Abby Wiley
-- Joel Wallingford
+### Team 1 - *Trinkt*
 - Clyde Collins
 - Lush Lu
+- Joel Wallingford
+- Abby Wiley
+
 
 ### Team 2  - *Task Town*
 - Braeden Buckley
