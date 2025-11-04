@@ -147,7 +147,7 @@
 - Amanda Duffy
 - Owen Katz
 
-### Team 2 
+### Team 2  - *DrawBed*
 - Noah Bonafede
 - Ethan Eddy
 - Henry Watson
@@ -158,7 +158,7 @@
 
 ### Team 4 - *Better RIT*
 - Emmanuel Olivares
-- Zachary Palumbo
+- Hannah Palumbo
 - Hudson Reeves
 - Trevor Ringhisen
 
