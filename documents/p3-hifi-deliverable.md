@@ -30,4 +30,8 @@ This draft will be tested by your peers in class, so ensure it is accessible and
 
 ## III. Submission
 - Submit both the prototype and the form to myCourses before the dropbox closes.
-  - note: if the prototype is written in Figma or Google Slides, you will submit a working link that is public 
+  - note: if the prototype is written in Figma or Google Slides, you will submit a working link that is public
+
+---
+
+[**<-- Prev: Deliv. #2 - LoFi Prototype**](p3-lofi-deliverable.md)  | 💥💥💥 | Next --> Deliv. #4 - Final version and presentation]
