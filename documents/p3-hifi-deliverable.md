@@ -12,18 +12,18 @@
 ---
 
 ## II. Assignment Requirements
-### Prototype Draft
+### A. Prototype Draft
 - The prototype draft should be functional enough to demonstrate the core idea of your project. While it doesn’t need to be fully polished, it should reflect:
   - the concept you are developing based on your selected infographic
   - the core features that will help your audience interact with the project
   - the initial design choices that will guide the final look and feel of the project
 - This draft will be tested by your peers in class, so ensure it is accessible and ready to be interacted with.
 
-### User Testing
+### B. User Testing
 - Have a minimum of FIVE users test your group's application
 - Then have each user take the 
 
-### Feedback Survey
+### C. Feedback Survey
 - Your group will create a feedback survey to collect focused and actionable feedback from those who test your prototype. The survey should be designed to gather information on:
   - **Usability**: Is the prototype easy to navigate? Are there any confusing or unintuitive elements?
   - **Design**: How effective are the visual and interactive elements? Does the design align with the goals of the project?
@@ -38,8 +38,8 @@
 ---
 
 ## III. Submission
-- Submit both the prototype and the form to myCourses before the dropbox closes.
-  - note: if the prototype is written in Figma or Google Slides, you will submit a working link that is public
+- Submit both the prototype and the public ("All of RIT") link to the feedback form to myCourses before the dropbox closes.
+- Note: if the prototype is written in Figma or Google Slides, you will submit a working link that is public
 
 ---
 
