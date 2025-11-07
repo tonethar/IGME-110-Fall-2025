@@ -21,7 +21,7 @@
 
 ### B. User Testing
 - Have a minimum of FIVE users test your group's application
-- Then have each user take the 
+- Each user will TODO 
 
 ### C. Feedback Survey
 - Your group will create a feedback survey to collect focused and actionable feedback from those who test your prototype. The survey should be designed to gather information on:
