@@ -18,7 +18,6 @@
 ### Team 1 - *Corvid Casual*
 - Charlie Davis
 - Lily Denise
-- Thomas DeVore
 - Elijah Saylor
 
 ### Team 2 - *Grub Guru*
