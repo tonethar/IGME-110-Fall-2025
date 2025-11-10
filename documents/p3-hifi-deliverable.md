@@ -236,11 +236,11 @@ Submit to myCourses (team dropbox):
 | Component | Weight | Key Focus |
 |-----------|--------|-----------|
 | **Deliverable #1: Work Plan** | 15% | Planning, personas, features (due 11A) |
-| **Deliverable #2: Lo-Fi Prototype** | 20% | User flows, mockups, testing script (due 11B) |
+| **Deliverable #2: Lo-Fi Prototype** | 15% | User flows, mockups, testing script (due 11B) |
 | **Deliverable #2: Results & Debrief** | 15% | Completed testing scripts, reflection (due after 11B) |
 | **Deliverable #3A: Final Prototype** | 30% | Quality, functionality, creativity (due 13A) |
 | **Deliverable #3B: Presentation** | 15% | Clarity, demo, collaboration (due 13A) |
-| **Deliverable #4: Peer Eval & Reflection** | 5% | See separate document (due 13B) |
+| **Deliverable #4: Peer Eval & Reflection** | 10% | See separate document (due 13B) |
 
 **Total: 100% of P3 Grade**
 
