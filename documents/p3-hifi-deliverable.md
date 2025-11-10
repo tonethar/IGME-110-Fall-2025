@@ -1,3 +1,7 @@
+
+
+<!---
+
 # Project 3 - Interactive Digital Prototype - deliverable #3 (DRAFT)
 ## *Hi-Fi Version and in-class testing*
 
@@ -44,3 +48,5 @@
 ---
 
 [**<-- Prev: Deliv. #2 - LoFi Prototype**](p3-lofi-deliverable.md)  | 💥💥💥 | Next --> Deliv. #4 - Final version and presentation]
+
+-->
