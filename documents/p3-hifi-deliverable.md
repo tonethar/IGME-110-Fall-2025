@@ -257,7 +257,7 @@ Submit to myCourses (team dropbox):
 
 **Technical Resources:**
 - [Figma tutorials](https://www.figma.com/resources/learn-design/)
-- [PowerPoint hyperlink guide](https://support.microsoft.com/en-us/office/create-a-hyperlink-to-another-slide-9bf3aff2-5e0f-4a4e-91ca-c2d8bb85f3e7)
+- [Google Slides hyperlink guide](https://support.microsoft.com/en-us/office/create-a-hyperlink-to-another-slide-9bf3aff2-5e0f-4a4e-91ca-c2d8bb85f3e7)
 
 **Presentation Resources:**
 - [How to present a prototype](https://www.nngroup.com/articles/presenting-prototypes/)
