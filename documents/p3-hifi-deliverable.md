@@ -1,4 +1,4 @@
-# Project 3 - Interactive Digital Prototype - Deliverables #3 & #4
+# Project 3 - Interactive Digital Prototype - Deliverables #3A & #3B
 ## *Hi-Fi Prototype & Presentation*
 
 ---
