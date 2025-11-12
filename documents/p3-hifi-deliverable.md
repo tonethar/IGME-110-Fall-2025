@@ -223,11 +223,10 @@ Submit to myCourses (team dropbox):
 
 | Date | What's Happening | What's Due |
 |------|-----------------|------------|
-| **12A** (Nov 12/13) | Work time in class | Nothing - just work! |
-| **12B** (Nov 13/14) | Progress check + peer feedback | Nothing to submit - show your work in class |
-| **Week of Nov 15** | Keep working! | Nothing - just build your final |
-| **13A** (Nov 18/19) | **PRESENTATIONS!** | Final prototype + slides + summary |
-| **13B** (Nov 20/21) | Debrief & wrap-up | Peer eval & reflection (see separate doc) |
+| **12A** (Nov 10/11) | Work time in class | Nothing - just work! |
+| **12B** (Nov 12/13) | Progress check + peer feedback | Nothing to submit - show your work in class |
+| **13A** (Nov 17/18) | **PRESENTATIONS!** | Final prototype + slides + summary |
+| **13B** (Nov 19/20) | Debrief & wrap-up | Peer eval & reflection (see separate doc) |
 
 ---
 
