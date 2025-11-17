@@ -1,4 +1,4 @@
-**Presentation: Suggested Structure (~5 minutes total 🤔):**
+## Presentation: Suggested Structure (~5 minutes total 🤔)
 
 **1. Introduction & Problem (1 min)**
 - Introduce team members
