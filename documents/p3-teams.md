@@ -99,40 +99,40 @@
 
 ## III. Section 06 (TR 5:00PM-6:15PM)
 
-### Team 1 - *Trinkt* - [Presentation]() - [Prototype]()
+### Team 1 - *Trinkt* - [Presentation](https://docs.google.com/presentation/d/1OQVpc-Efi1p4RgPoXDaUzHVub_Aj9Zx1R-kUV0VlO2o/edit?usp=sharing) - [Prototype](https://www.figma.com/proto/M9bv5xwj6kOwlWacf21VrI/Trinkt-Final-Prototype?node-id=10-64&t=JUjTUtKMn7m208uI-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
 - Clyde Collins
 - Lush Lu
 - Joel Wallingford
 - Abby Wiley
 
 
-### Team 2  - *Task Town* - [Presentation]() - [Prototype]()
+### Team 2  - *Task Town* - [Presentation](https://www.canva.com/design/DAG49hrDI9E/bH_XOs2sKW2PKx-2zJzdrw/edit) - [Prototype](https://www.figma.com/proto/tJDhcvKVC6n3mq9JIZ8VIZ/TaskTownHiFI?node-id=2-3&p=f&t=OBAJxk9v4TfUlK6l-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A3)
 - Braeden Buckley
 - Nicora Wiseley
 - Onyx Wong
 
-### Team 3 - *Session Zero* - [Presentation]() - [Prototype]()
+### Team 3 - *Session Zero* - [Presentation](https://docs.google.com/presentation/d/1VFwCN7RGZC0DScY7LIUErNzy6fxdZo3E-sK6YaRyLLs/edit?usp=sharing) - [Prototype](https://www.figma.com/design/L2Z3V5LHP6ZIqfXlqHsZ8I/Session-Zero?node-id=0-1&t=fF4veIgubHnZ5Gj9-1)
 - Tommy Barone
 - Autumn Seidlitz
 - William Yi
 - Laurin Zanon
 
-### Team 4 - *DormBot* - [Presentation]() - [Prototype]()
+### Team 4 - *DormBot* - [Presentation](https://docs.google.com/presentation/d/1jbyS9m-NPqeyiLO5Q_P1FGVZSq0VWa-D8PmfZ6EYSWk/edit?slide=id.g3a34913deae_1_3521#slide=id.g3a34913deae_1_3521) - [Prototype](https://www.figma.com/proto/gRFIbV2zzceGozbIt9fLzW/110-Project-3?node-id=11-7&t=7w8W3vOl44htO4A9-1&starting-point-node-id=11%3A7)
 - Zoey Lapidus
 - Meadow McKeegan
 - Cam Murphy
 - Alex Sharpe
 
-### Team 5 - *Trinkt* - [Presentation]() - [Prototype]()
+### Team 5 - *Trinkt* - [Presentation](https://docs.google.com/presentation/d/1wb3GhI1Tgz97mKUFzBs57MfHaByFQO2iLExgw-dHdbc/edit?usp=sharing) - [Prototype](https://www.figma.com/proto/KlIwA9SXXZNe6fNgeKlyOj/Trinkt?node-id=1-2&p=f&t=v5YCZN5[…]age-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1)
 - Ethan Carpenter
 - Kaiden Lakheeram
 - Joaquin Parada
   
-### Team 6 - *BetterRIT* - [Presentation]() - [Prototype]()
+### Team 6 - *BetterRIT* - [Presentation](https://docs.google.com/presentation/d/1jGYnQyAM5GqcvXdKT6rovIRyjjpBBgW6O2dh1UwYJQA/edit?usp=sharing) - [Prototype](https://www.figma.com/design/TFVQKqjSsRrEecXKS0sOcC/Project-3?node-id=0-1&t=XyGHbsxTlX3PNSPm-1)
 - Kaitlyn Gray
 - Anushree Zimmerman
 
-### Team 7 - *Coz Planner* - [Presentation]() - [Prototype]()
+### Team 7 - *Coz Planner* - [Presentation](https://docs.google.com/presentation/d/13yV2ZVIvXS3feEYmPIAQKIvqJUP6h4-GXzBzIONxSvc/edit?usp=sharing) - [Prototype](https://www.figma.com/design/muDMf1WxADjF2XCVuxGjOa/Prototype?node-id=0-1&t=J9x4Z3e8WYmHwy2q-1)
 - Ricardo Charles
 - Isaac Knowlton
 - David Poore
