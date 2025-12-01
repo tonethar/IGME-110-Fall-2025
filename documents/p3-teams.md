@@ -142,49 +142,49 @@
 
 ## IV. Section 09 (TR 3:30PM-4:45PM)
 
-### Team 1 - *Fried Phish* - [Presentation]() - [Prototype]()
+### Team 1 - *Fried Phish* - [Presentation](https://www.canva.com/design/DAG4-j38tqM/OBQXggMP5DRC_KKjQUZs4g/edit) - [Prototype](https://www.figma.com/design/8DU7jxTQ2VoPguFO8XF210/Team-1-Fried-Phish?node-id=0-1&p=f&t=s91awKTkPzcfTaDN-0)
 - Alessia Bianchimano
 - Nick Bisordi
 - Amanda Duffy
 - Owen Katz
 
-### Team 2  - *DrawBed* - [Presentation]() - [Prototype]()
+### Team 2  - *DrawBed* - [Presentation](https://docs.google.com/document/d/1BzUXKzH1n0G4kXuGMDZ8tfKsFGet81XtGM6LABWK8XY/edit?usp=sharing) - [Prototype](https://www.figma.com/proto/xvUOredxtNiGpT76ijldnK/DrawBed?node-id=7-3&p=f&t=llgFt1[…]ge-id=0%3A1&starting-point-node-id=46%3A9&show-proto-sidebar=1)
 - Noah Bonafede
 - Ethan Eddy
 - Henry Watson
 
-### Team 3 - *Corvid Casual* - [Presentation]() - [Prototype]()
+### Team 3 - *Corvid Casual* - [Presentation](https://www.canva.com/design/DAG45QmWYrI/rSJSRBWlbR3bdI6vD4nKVQ/edit) - [Prototype](https://www.figma.com/proto/MLovBp5Ttc6hh0OWekwtOd/%22Corvid-Casual%22-HiFi-Prototype?node-id=0-1&t=EhOv6hb6yddWvwI8-1)
 - Laura Gutaman
 - Di'Anny Santana
 
-### Team 4 - *Better RIT* - [Presentation]() - [Prototype]()
+### Team 4 - *Better RIT* - [Presentation](https://docs.google.com/presentation/d/1S2xuTf_JucFmRJUsrE_O8wPfYur60bCpT5YGqoeV9ls/edit?usp=sharing) - [Prototype](https://www.figma.com/design/jQXdiBdR8Ji2ybJPYjBGpj/Hi-Fi-Prototype?node-id=0-1&t=raxdevStGwY89FCs-1)
 - Emmanuel Olivares
 - Hannah Palumbo
 - Hudson Reeves
 - Trevor Ringhisen
 
-### Team 5 - *Corvid Casual* - [Presentation]() - [Prototype]()
+### Team 5 - *Corvid Casual* - [Presentation](https://docs.google.com/presentation/d/1coyEhLTmfnV07cCdRAwUF6uMljPKdL2puult2KCY6nA/edit?usp=sharing) - [Prototype](https://www.figma.com/proto/9sjaXYQQTXZiNmjIWT4hpA/CorvidCasual?node-id=0-1&t=WeAztVYPplWSXdEG-1)
 - Keira Kopp
 - Greg Murray
 - Jeremy Nivar
 - Jordan Weller
 
-### Team 6 - *Anime Plushies* - [Presentation]() - [Prototype]()
+### Team 6 - *Anime Plushies* - [Presentation](https://www.canva.com/design/DAG4nI97ssM/dlqMbfAdQvctY0CeDcNrwg/edit?utm_content=DAG4nI97ssM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) - [Prototype](https://www.figma.com/design/bAzz7tanQr0wTNZkMnfB07/Project-3---Team-6?node-id=0-1&t=FFBBGMAku62Rr820-1)
 - Anthony Cianfrini
 - Fiona Chan
 - Mitzi Chen
 
-### Team 7 - *Forget Me Not Tracking Stickers* - [Presentation]() - [Prototype]()
+### Team 7 - *Forget Me Not Tracking Stickers* - [Presentation](https://docs.google.com/presentation/d/14LKP-Hl7MhPv4IE9_o06DibS7U78NFEuccyTgI6qeGA/edit?slide=id.g3a2f4db68a1_0_0#slide=id.g3a2f4db68a1_0_0) - [Prototype Link Needed]()
 - Adam Shaw
 - Adon Smith
 - Brian Teruya
 
-### Team 8 - *EXPQuest* - [Presentation]() - [Prototype]()
+### Team 8 - *EXPQuest* - [Presentation](https://docs.google.com/presentation/d/1SqxnBybWZhYopUg038gXg2Zl8qtRWMt01KC8buIALIM/edit?usp=sharing) - [Prototype](https://www.figma.com/design/sfm76FnzomVuznJ5htl7Qa/EXP-Quest?node-id=0-1&p=f&t=FNhUUkS05tBPbFae-0)
 - Luna Berl
 - Firdavs Muqimtoshov
 - Takeshi Tatsumi
 - Maryn Yurack
   
-### Team 9 - *Anime Plushies* - [Presentation]() - [Prototype]()
+### Team 9 - *Anime Plushies* - [Presentation](https://docs.google.com/presentation/d/1ETJ_jpHyUQXstJsaEucgVZuWuY7zv16_dYvZPco92Tg) - [Prototype](https://www.figma.com/design/hGITmIb0QkmPMsfzvxHlPZ/Anime-Plushie-Prototype-?node-id=0-1&t=PPnqc4Iu14TH5MgY-1)
 - Sebastian Greco
 - Emmett Sier
