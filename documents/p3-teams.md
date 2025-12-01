@@ -54,44 +54,44 @@
 
 ## II. Section 05 (MW 6:30PM - 7:45PM)
 
-### Team 1 - *ARG Pirate App* - [Presentation]() - [Prototype]()
+### Team 1 - *ARG Pirate App* - [Presentation](https://docs.google.com/presentation/d/1oHqP8UXrv6SCcAzxEzwh3SCBwz-aymDCSjTd88MUJoA/edit?usp=sharing) - [Prototype](https://www.figma.com/proto/KYhHFFoKlFX2TAEwtbcjYC/ARG-Pirate-Finder-Concept-App?no[…]ntent-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)
 - Logan Babb
 - Luke Edelmann
 - Trevin Fruehauf
 
-### Team 2 - *Campus Compass* - [Presentation]() - [Prototype]()
+### Team 2 - *Campus Compass* - [Presentation](https://docs.google.com/presentation/d/1VLOZSQaxcDc2V5QEA77KXjxixzwGthluTuwX4NFFLHk/edit?slide=id.p#slide=id.p) - [Prototype](https://www.figma.com/design/CkqtqczLAQy3VX1MfTltJB/Campus-Compass?node-id=70-4&t=6aiKaivZmsSGfNwn-1)
 - Connor Peck
 - Lyric Preston
 - Junghun Shin
 
-### Team 3 - *Grub Guru* - [Presentation]() - [Prototype]()
+### Team 3 - *Grub Guru* - [Presentation](https://docs.google.com/presentation/d/1SM5TiC817dsW5vFgg4RyMycewidxs0u52KK4WY8soXw) - [Prototype](https://www.figma.com/design/iA5Gl6xy9WUYudZPECr6N1/Grub-Guru?node-id=0-1&t=wRtDnkpVuzeJ75yV-1)
 - Noah Brutcher
 - Jamison Eng
  
-### Team 4  - *Wize Wizard* - [Presentation]() - [Prototype]()
+### Team 4  - *Wize Wizard* - [Presentation](https://docs.google.com/presentation/d/1ksV4KZS_qwilNm1ZBkyOaKIQRRpcYzNeGEwlfKGL1bM/edit?usp=drivesdk) - [Prototype](https://www.figma.com/proto/n9zR2bQZnQRt8ptJ86UPtn/Wize-Wizard?node-id=0-1&t=v5nKkdWbPBT8hYjf-1)
 - Noah Holzheimer
 - Andie Kiener
 - Quinn McCormick
 - Ian Oppermann
 
-### Team 5 - *EXP Quest* - [Presentation]() - [Prototype]()
+### Team 5 - *EXP Quest* - [Presentation](https://docs.google.com/presentation/d/1QnHNpxSBkFegWJKghu92qBFm4LQIyNYjdWTyCSfH2Bg/edit?slide=id.g3a2e5710409_14_0#slide=id.g3a2e5710409_14_0) - [Prototype](https://www.figma.com/design/F69jEVWBkwA1nwlV4DuILX/EXP-Quest?m=auto&t=P9ri2T6El5uwlVV4-1)
 - Charisma Allen
 - Luther Barreiro Roxo
 - Tanai Beeram
 - Michael Mirmigos
 
-### Team 6 - *Wize Wizard* - [Presentation]() - [Prototype]()
+### Team 6 - *Wize Wizard* - [Presentation](https://docs.google.com/presentation/d/1XrJdr4Wdo3WA5vZDMgZSsLAFiQVIMbhuzyYzL3OMJkM/) - [Prototype](https://www.figma.com/proto/1PkP39hAqrTOnrYIxRqV5N/Wize-Wizard?node-id=1-2&p=f&t=Ss[…]ntent-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)
 - Aaron Smiljanic
 - Alena Velasco
 - Andrew Viera
 - Koen Westburg
 
-### Team 7 - *Wize Wizard* - [Presentation]() - [Prototype]()
+### Team 7 - *Wize Wizard* - [Presentation](https://docs.google.com/presentation/d/1NXVPCXHnahNlVoo15AfT6uCh5JWrRTDFP8Pca_IJgvQ/edit?usp=sharing) - [Prototype](https://www.figma.com/design/sHTh4QOOGzWNeD0qQ1zpfT/Wize-Wizard?node-id=2-37&t=kYNl2yGivbjXFdkn-1)
 - Luan Dunlap
 - Maddy Lohr
 - Zarif Wahid
 
-### Team 8 - *S.H.R.E.A.K.* - [Presentation]() - [Prototype]()
+### Team 8 - *S.H.R.E.A.K.* - [Presentation](https://docs.google.com/presentation/d/1XplunhkaK7-vop3z2Jm4pePnOq3yo7R7WFmUgZjACLE/)
 - Cole Joly
 - Jack Lindsey-noble
 
