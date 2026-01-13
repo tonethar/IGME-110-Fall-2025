@@ -115,7 +115,7 @@
 - Joaquin Parada
 - David Poore
 
-### Team 5 - *SugarDeity - match your TTRPG character with the perfect Patron!*
+### Team 5 - *Session Zero - TTRPG Game Finder*
 - Autumn Seidlitz
 - Alex Sharpe
 - Philip Thomas
