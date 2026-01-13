@@ -105,7 +105,7 @@ Tip: You will likely have this account for a long time, so choosing a SFW ("Safe
   - etc
 - At a minimum, use level-1 and level-2 headers, a list of "clickable" links (with at least 5 items in it) and bold text
 - Be sure to display at least two images
-- Also display at least 5️⃣ emojis - 🎱 ⚗️ 🥯 😵 🥇 - https://gist.github.com/rxaviers/7360908
+- Also display at least 5️⃣ emojis of your choosing - 🎱 ⚗️ 🥯 😵 🥇 - see https://gist.github.com/rxaviers/7360908
 - Don't forget to click "Commit changes ..." when you are done!
 - **Submission:** See [https://mycourses.rit.edu](https://mycourses.rit.edu/) "Assignments" tab to see where to upload your link
 
