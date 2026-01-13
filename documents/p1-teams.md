@@ -23,7 +23,6 @@
 ### Team 2 - *Nobia ("No Phobia") - tech glasses*
 - Draco Del Toro
 - Bonnie Denise
-- Zoe DeVore
 - Ethan Elston
 
 ### Team 3 - *HoneyLink - social network for the socially anxious*
@@ -36,7 +35,6 @@
 - Diana Kariaka
 - Aidan Lees
 - Palmer Martin
-- Hunter Mowrey
 - Cody Oleksak
 
 ### Team 5 - *Drawbed - a bed that will not let you sleep in*
@@ -100,7 +98,6 @@
 ### Team 2 - *CozPlanner - "Plan to Play!"*
 - Clyde Collins
 - Kaitlyn Gray
-- Quinn Halaby
 - Isaac Knowlton
 
 ### Team 3 - *SlangLang - Gen Z Translator*
