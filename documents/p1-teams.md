@@ -20,7 +20,7 @@
 - Kyle Cress
 - Charlie Davis
 
-### Team 2 - *Arachnophobia - tech glasses*
+### Team 2 - *Nobia ("No Phobia") - tech glasses*
 - Draco Del Toro
 - Bonnie Denise
 - Zoe DeVore
